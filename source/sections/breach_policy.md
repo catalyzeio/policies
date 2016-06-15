@@ -1,5 +1,7 @@
 # Breach Policy
 
+Additional reference that could be used when filling this out: http://hipaacow.org/wp-content/uploads/2013/02/HCR-Breach-Checklist-0312.doc
+
 To provide guidance for breach notification when impressive or unauthorized access, acquisition, use and/or disclosure of the ePHI occurs. Breach notification will be carried out in compliance with the American Recovery and Reinvestment Act (ARRA)/Health Information Technology for Economic and Clinical Health Act (HITECH) as well as any other federal or state notification law. 
 
 The Federal Trade Commission (FTC) has published breach notification rules for vendors of personal health records as required by ARRA/HITECH. The FTC rule applies to entities not covered by HIPAA, primarily vendors of personal health records. The rule is effective September 24, 2009 with full compliance required by February 22, 2010. 
