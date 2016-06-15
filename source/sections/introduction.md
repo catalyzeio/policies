@@ -37,4 +37,12 @@ All Platform Add-ons and operating systems are tested end-to-end for usability, 
 
 ## Version Control
 
+References used in creating these policies
+
+HIPAA COW
+Tynan Szvetecz, CEO Commerce Kitchen
+
+
+This Example Policy and Procedure Template is Copyright Ó by the HIPAA Collaborative of Wisconsin (“HIPAA COW”).  It may be freely redistributed in its entirety provided that this copyright notice is not removed.  When information from this document is used, HIPAA COW shall be referenced as a resource.   It may not be sold for profit or used in commercial documents without the written permission of the copyright holder.  This Example Policy and Procedure Template is provided “as is” without any express or implied warranty.   This Example Policy and Procedure Template is for educational purposes only and does not constitute legal advice.  If you require legal advice, you should consult with an attorney.  Unless otherwise noted, HIPAA COW has not addressed all state pre-emption issues related to this Example Policy and Procedure Template.  Therefore, this document may need to be modified in order to comply with Wisconsin/State law.
+
 Policies were last updated May 10th, 2016.
