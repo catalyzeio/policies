@@ -11,6 +11,15 @@ Catalyze utilizes a suite of approved software tools for internal use by workfor
 * **Google Apps**. Google Apps is used for email and document collaboration.
 
 
+Encryption Whitepaper from HIPAA COW, http://hipaacow.org/wp-content/uploads/2013/03/WP-Encryption-Whitepaper-7.7.10.doc
+Slack Security Practices, https://slack.com/security-practices
+Google Apps HIPAA Implementation Guide, https://static.googleusercontent.com/media/www.google.com/en/us/work/apps/terms/2015/1/hipaa_implementation_guide.pdf
+2008 WHIMA Policy Template
+2010 Ministry Health Care Enterprise Policy Template
+2007 Writing Effective HIPAA Privacy and Security Policies and Procedures HIPAA COW presentation, Catherine Boerner
+2005 Policy & Procedure Writing HIPAA COW presentation, Holly Schlenvogt
+
+
 Policy: Data and Device Management
  
  The device and data management plans are intended to support and protect Agathos and the covered entities with which they do business. It is assumed that Agathos employees have access to the minimum necessary ePHI to perform their duties.
