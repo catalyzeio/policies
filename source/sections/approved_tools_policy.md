@@ -13,6 +13,8 @@ Catalyze utilizes a suite of approved software tools for internal use by workfor
 
 Policy: Data and Device Management
  
+ The device and data management plans are intended to support and protect Agathos and the covered entities with which they do business. It is assumed that Agathos employees have access to the minimum necessary ePHI to perform their duties.
+ 
 Agathos strives to maintain all appropriate safeguards to ensure any data containing electronic protected health information (ePHI) is protected at all times. Agathos staff will have access to the minimum necessary ePHI through their work with clients and will take necessary measure outlined below to reasonably safeguard any ePHI.
 
 Computers - Agathos members may use personal computers or company-provided workstations to perform work. The following protective measure must be followed regardless of whether personal or company-provided workstations are used.
