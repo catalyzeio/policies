@@ -2,7 +2,7 @@
 
 Below is a list of HIPAA Safeguards and Requirements and the Agathos controls in place to meet those.
 
-| **Administrative Controls** HIPAA Rule | Agathos Control | Assigned |
+ **Administrative Controls** HIPAA Rule | Agathos Control
 --- | ---
 Security Management Process - 164.308(a)(1)(i) | Risk Management Policy | Paul
 Assigned Security Responsibility - 164.308(a)(2) | Roles Policy | Paul
@@ -14,14 +14,14 @@ Contingency Plan - 164.308(a)(7)(i) | Disaster Recovery Policy | Paul
 Evaluation - 164.308(a)(8) | Auditing Policy | Paul
 **Contracts with Trading Partners - 164.308(b)(4)** | **Contract (not yet implemented)** | Paul
 
-|**Physical Safeguards** HIPAA Rule | Agathos Control | Assigned
+ **Physical Safeguards** HIPAA Rule | Agathos Control | Assigned
 --- | ---
 Facility Access Controls - 164.310(a)(1) | Facility and Disaster Recovery Policies | Paul
 Workstation Use - 164.310(b) | System Access, Approved Tools, and Employee Policies | Paul
 Workstation Security - 164.310('c') | System Access, Approved Tools, and Employee Policies | Paul
 Device and Media Controls - 164.310(d)(1) | Disposable Media and Data Management Policies | Paul
 
-**Technical Safeguards** HIPAA Rule | Agathos Control | Assigned |
+ **Technical Safeguards** HIPAA Rule | Agathos Control | Assigned
 ---------------- | ----------------
 Access Control - 164.312(a)(1) | System Access Policy | Devin
 **user identity tracking, Emergency Procedures, session termination, EPHI encryption 164.312(a)(2)(i-iv)** | **Requires Evaluation** | Devin
