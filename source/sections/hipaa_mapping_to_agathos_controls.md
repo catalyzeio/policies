@@ -14,7 +14,7 @@ Contingency Plan - 164.308(a)(7)(i) | Disaster Recovery Policy | Paul
 Evaluation - 164.308(a)(8) | Auditing Policy | Paul
 **Contracts with Trading Partners - 164.308(b)(4)** | **Contract (not yet implemented)** | Paul
 
- **Physical Safeguards** HIPAA Rule | Agathos Control | Assigned
+ Physical Safeguards HIPAA Rule | Agathos Control | Assigned
 --- | ---
 Facility Access Controls - 164.310(a)(1) | Facility and Disaster Recovery Policies | Paul
 Workstation Use - 164.310(b) | System Access, Approved Tools, and Employee Policies | Paul
