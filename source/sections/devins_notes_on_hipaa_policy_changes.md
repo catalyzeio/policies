@@ -4,6 +4,8 @@
 * recommend removing inheritance tables for catalyze style customers and adding a table for our type of customer
 * systems access policy contains relevant info for VP of Eng, Sec. Officer, and Priv. Officer.
 * removed PaaS access section from systems access policy because Agathos doesn't have PaaS customers.
+e
+* removed Catalyze-specific methods in configuration policy. Recommend further addition to configuration policy with Agathos-specific management methods.
 
 ## To Do:
 * update policy index
@@ -23,3 +25,6 @@
 	* remind team that no generic accounts should be used
 	* S/O create list of pre-approved personal devices
 	* all devices must use Filevault 2.0, firewalls
+* **configuration management policy**:
+	* Add to configuration management policy with agathos specific methods and tools.
+	* **Implement unit tests in all production code.**
