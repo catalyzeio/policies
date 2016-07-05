@@ -9,6 +9,7 @@ e
 * "./incident.form.pdf" appears to be missing from the catalyze documents
 * removed PaaS section from breach policy
 * removed specifics from vulnerability scanning
+* discuss disposable media policy
 
 ## To Do:
 * update policy index
