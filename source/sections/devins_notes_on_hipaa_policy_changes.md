@@ -7,6 +7,8 @@
 e
 * removed Catalyze-specific methods in configuration policy. Recommend further addition to configuration policy with Agathos-specific management methods.
 * "./incident.form.pdf" appears to be missing from the catalyze documents
+* removed PaaS section from breach policy
+* removed specifics from vulnerability scanning
 
 ## To Do:
 * update policy index
@@ -34,3 +36,5 @@ e
 	* find incident identification form and include it in the sources folder.
 * **breach policy**:
 	* update "breach.log.pdf"
+* **vulnerability scanning**
+	* choose a method for vulnerability scanning and possibly use 3rd party scanning.
