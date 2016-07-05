@@ -37,5 +37,7 @@ e
 	* find incident identification form and include it in the sources folder.
 * **breach policy**:
 	* update "breach.log.pdf"
-* **vulnerability scanning**
+* **vulnerability scanning**:
 	* choose a method for vulnerability scanning and possibly use 3rd party scanning.
+* **data integrity policy**:
+	* monitor log in attempts to production platforms.
