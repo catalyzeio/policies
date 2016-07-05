@@ -2,6 +2,9 @@
 
 Catalyze has a Security Officer [164.308(a)(2)] and Privacy Officer  [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
+
+Agathos Privacy and Security Officer (Steven Waye, COO)
+
 ## Applicable Standards from the HITRUST Common Security Framework
 
 * 02.f - Disciplinary Process
