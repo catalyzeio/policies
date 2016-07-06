@@ -1,5 +1,7 @@
 # Employees Policy
 
+Some random new things
+
 Catalyze is committed to ensuring all workforce members actively address security and compliance in their roles at Catalyze. As such, training is imperative to assuring an understanding of current best practices, the different types and sensitivities of data, and the sanctions associated with non-compliance.
 
 ## Applicable Standards from the HITRUST Common Security Framework
