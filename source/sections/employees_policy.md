@@ -1,5 +1,7 @@
 # Employees Policy
 
+Some random new things
+
 Catalyze is committed to ensuring all workforce members actively address security and compliance in their roles at Catalyze. As such, training is imperative to assuring an understanding of current best practices, the different types and sensitivities of data, and the sanctions associated with non-compliance.
 
 ## Applicable Standards from the HITRUST Common Security Framework
@@ -21,7 +23,8 @@ Catalyze is committed to ensuring all workforce members actively address securit
 	* Upon completion of training, workforce members complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
 	* Ongoing security training is conducted monthly.
 	* Current Catalyze training is hosted [here](https://training.catalyze.io/).
-2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
+	* Training ppt from cow (th one steve found) http://hipaacow.org/wp-content/uploads/2015/05/HIPAA-COW-Training-FINAL-5.7.15.pptx
+6. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 3. The Catalyze Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices and social media usage.
 4. Catalyze does not allow mobile devices to connect to any of its production networks.
 5. All workforce members are educated about the approved set of tools to be installed on workstations.
