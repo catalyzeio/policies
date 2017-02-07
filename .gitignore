@@ -33,6 +33,7 @@ Temporary Items
 /test/tmp/
 /test/version_tmp/
 /tmp/
+.sass-cache
 
 ## Specific to RubyMotion:
 .dat*

@@ -1,6 +1,6 @@
 # Incident Response Policy
 
-Catalyze implements an information security incident response process to consistently detect, respond, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
+Datica implements an information security incident response process to consistently detect, respond, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
 
 The incident response process addresses:
 
@@ -15,7 +15,6 @@ The incident response process addresses:
 
 * 11.a - Reporting Information Security Events
 * 11.c - Responsibilities and Procedures
-* 11.a - Reporting Information Security Events
 
 ## Applicable Standards from the HIPAA Security Rule
 
@@ -24,11 +23,11 @@ The incident response process addresses:
 
 ## Incident Management Policies
 
-The Catalyze incident response process follows the process recommended by SANS, an industry leader in security (www.sans.org). Process flows are a direct representation of the SANS process. Review Appendix 1 for a flowchart identifying each phase.
+The Datica incident response process follows the process recommended by SANS, an industry leader in security (www.sans.org). Process flows are a direct representation of the SANS process. Review Appendix 1 for a flowchart identifying each phase.
 
 ### Identification Phase
 
-1. Immediately upon observation Catalyze members report suspected and known Precursors, Events, Indications, and Incidents in one of the following ways:
+1. Immediately upon observation Datica members report suspected and known Precursors, Events, Indications, and Incidents in one of the following ways:
 	1. Direct report to management, the Security Officer, Privacy Officer, or other;
 	2. Email;
 	3. Phone call;
@@ -47,12 +46,12 @@ The Catalyze incident response process follows the process recommended by SANS, 
 		4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
 		5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
 		6. The lead member of the SIRT team facilitates initiation of a Security Incident Report (SIR) Form (See Appendix 2 for sample format) or an Incident Survey Form (See Appendix 4).  The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
-	11. The Security Officer, Privacy Officer, or Catalyze representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
-	12. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Catalyze and potentially external.
+	11. The Security Officer, Privacy Officer, or Datica representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
+	12. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Datica and potentially external.
 
 ### Containment Phase (Technical)
 
-In this Phase, Catalyze’s IT department attempts to contain the security incident. It is extremely important to take detailed notes during the security incident response process. This provides that the evidence gathered during the security incident can be used successfully during prosecution, if appropriate.
+In this Phase, Datica’s IT department attempts to contain the security incident. It is extremely important to take detailed notes during the security incident response process. This provides that the evidence gathered during the security incident can be used successfully during prosecution, if appropriate.
 
 1. The SIRT reviews any information that has been collected by the Security Officer or any other individual investigating the security incident.
 2. The SIRT secures the network perimeter.
@@ -63,9 +62,9 @@ In this Phase, Catalyze’s IT department attempts to contain the security incid
 	4. If appropriate, back up the system.
 	5. Change the password(s) to the affected system(s).
 	6. Determine whether it is safe to continue operations with the affect system(s).
-	7. If it is safe, allow the system to continue to function; 
+	7. If it is safe, allow the system to continue to function;
 		1. Complete any documentation relative to the security incident on the SIR Form.
-		2. Move to Phase V, Follow-up.	
+		2. Move to Phase V, Follow-up.
 	8. If it is NOT safe to allow the system to continue operations, discontinue the system(s) operation and move to Phase III, Eradication.
 	9. The individual completing this phase provides written communication to the SIRT.
 4. Continuously apprise Senior Management of progress.
@@ -108,7 +107,7 @@ The Follow-up Phase represents the review of the security incident to look for �
 
 1. Responders to the security incident (SIRT Team and technical security resource) meet to review the documentation collected during the security incident.
 2. Create a “lessons learned” document and attach it to the completed SIR Form.
-	1. Evaluate the cost and impact of the security incident to Catalyze using the documents provided by the SIRT and the technical security resource.
+	1. Evaluate the cost and impact of the security incident to Datica using the documents provided by the SIRT and the technical security resource.
 	2. Determine what could be improved.
 	3. Communicate these findings to Senior Management for approval and for implementation of any recommendations made post-review of the security incident.
 	4. Carry out recommendations approved by Senior Management; sufficient budget, time and resources should be committed to this activity.
@@ -116,7 +115,7 @@ The Follow-up Phase represents the review of the security incident to look for �
 
 ### Periodic Evaluation
 
-It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding the Catalyze’s expectation for them, relative to security responsibilities. The incident response plan is tested annually.
+It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding the Datica’s expectation for them, relative to security responsibilities. The incident response plan is tested annually.
 
 ## Security Incident Response Team (SIRT)
 

@@ -1,6 +1,24 @@
+// Datica Colors
+$color_deep:             #010101;
+$color_deep-alt:         #1E2127;
+$color_prime:            #1525F1;
+$color_prime-alt:        #1260FF;
+$color_product:          #426788;
+$color_product-alt:      #6C93B5;
+$color_service:          #D93939;
+$color_service-alt:      #FC7070;
+$color_talk:             #4E565D;
+$color_talk-alt:         #7A848D;
+$color_light:            #B3C8D6;
+$color_light-alt:        #EFF2F4;
+$color_border:           lighten(#B3C8D6, 10%);
+$color_green:            #4CC4BB;
+$color_shadow:           #DCE4E9;
+$color_highlight-yellow: #FEDB45;
+
 $c_bg: #EFF2F4;
 $c_border: #D4E0E8;
-$c_brand: #1055FF;
+$c_brand: $color_deep-alt;
 $c_text: #777777;
 $c_header: #444444;
 $c_good: #25B696;

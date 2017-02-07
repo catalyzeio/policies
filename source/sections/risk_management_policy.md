@@ -1,7 +1,7 @@
 
 # Risk Management Policy
 
-This policy establishes the scope, objectives, and procedures of Catalyze's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission. 
+This policy establishes the scope, objectives, and procedures of Datica's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -12,26 +12,26 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 ## Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(1)(ii)(A) – HIPAA Security Rule Risk Analysis
-* 164.308(a)(1)(ii)(B) – HIPAA Security Rule Risk Management 
+* 164.308(a)(1)(ii)(B) – HIPAA Security Rule Risk Management
 * 164.308(a)(8) – HIPAA Security Rule Evaluation
 
 ## Risk Management Policies
 
-1. It is the policy of Catalyze to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Catalyze's information security program.
-2. Risk analysis and risk management are recognized as important components of Catalyze’s corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
-	1. Risk assessments are done throughout product life cycles: 
-	2. Before the integration of new system technologies and before changes are made to Catalyze physical safeguards; and
-		* These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the Catalyze Platform.
-	3. While making changes to Catalyze physical equipment and facilities that introduce new, untested configurations.
-	4. Catalyze performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
-3. Catalyze implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
-	1. Ensure the confidentiality, integrity, and availability of all ePHI Catalyze receives, maintains, processes, and/or transmits for its Customers;
+1. It is the policy of Datica to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Datica's information security program.
+2. Risk analysis and risk management are recognized as important components of Datica’s corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
+	1. Risk assessments are done throughout product life cycles:
+	2. Before the integration of new system technologies and before changes are made to Datica physical safeguards; and
+		* These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the Datica Platform.
+	3. While making changes to Datica physical equipment and facilities that introduce new, untested configurations.
+	4. Datica performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
+3. Datica implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
+	1. Ensure the confidentiality, integrity, and availability of all ePHI Datica receives, maintains, processes, and/or transmits for its Customers;
 	2. Protect against any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
 	3. Protect against any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required; and
 	4. Ensure compliance by all workforce members.
-4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Catalyze’s Security Officer.
-5. All Catalyze workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Catalyze Roles Policy.
-6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Catalyze’s Security Officer (or other designated employee), and the identified Risk Management Team.
+4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Datica’s Security Officer.
+5. All Datica workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Datica Roles Policy.
+6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Datica’s Security Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
 
 ## Risk Management Procedures
@@ -39,8 +39,8 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 **Risk Assessment**: The intent of completing a risk assessment is to determine potential threats and vulnerabilities and the likelihood and impact should they occur. The output of this process helps to identify appropriate controls for reducing or eliminating risk.
 
 * Step 1. System Characterization
-	* The first step in assessing risk is to define the scope of the effort. To do this, identify where ePHI is received, maintained, processed, or transmitted. Using information-gathering techniques, the Catalyze Platform boundaries are identified.
-	* Output – Characterization of the Catalyze Platform system assessed, a good picture of the Platform environment, and delineation of Platform boundaries.
+	* The first step in assessing risk is to define the scope of the effort. To do this, identify where ePHI is received, maintained, processed, or transmitted. Using information-gathering techniques, the Datica Platform boundaries are identified.
+	* Output – Characterization of the Datica Platform system assessed, a good picture of the Platform environment, and delineation of Platform boundaries.
 
 * Step 2. Threat Identification
 	* Potential threats (the potential for threat-sources to successfully exercise a particular vulnerability) are identified and documented. All potential threat-sources through the review of historical incidents and data from intelligence agencies, the government, etc., to help generate a list of potential threats.
@@ -51,7 +51,7 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 	* Output – A list of the Platform vulnerabilities (observations) that could be exercised by potential threat-sources.
 
 * Step 4. Control Analysis
-	* Document and assess the effectiveness of technical and non-technical controls that have been or will be implemented by Catalyze to minimize or eliminate the likelihood / probability of a threat-source exploiting a Platform vulnerability.
+	* Document and assess the effectiveness of technical and non-technical controls that have been or will be implemented by Datica to minimize or eliminate the likelihood / probability of a threat-source exploiting a Platform vulnerability.
 	* Output – List of current or planned controls (policies, procedures, training, technical mechanisms, insurance, etc.) used for the Platform to mitigate the likelihood of a vulnerability being exercised and reduce the impact of such an adverse event.
 
 * Step 5. Likelihood Determination
@@ -59,7 +59,7 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 	* Output – Likelihood rating of low (.1), medium (.5), or high (1). Refer to the NIST SP 800-30 definitions of low, medium, and high.
 
 * Step 6. Impact Analysis
-	* Determine the level of adverse impact that would result from a threat successfully exploiting a vulnerability. Factors of the data and systems to consider should include the importance to Catalyze's mission; sensitivity and criticality (value or importance); costs associated; loss of confidentiality, integrity, and availability of systems and data.
+	* Determine the level of adverse impact that would result from a threat successfully exploiting a vulnerability. Factors of the data and systems to consider should include the importance to Datica's mission; sensitivity and criticality (value or importance); costs associated; loss of confidentiality, integrity, and availability of systems and data.
 	* Output – Magnitude of impact rating of low (10), medium (50), or high (100). Refer to the NIST SP 800-30 definitions of low, medium, and high.
 
 * Step 7. Risk Determination
@@ -74,7 +74,7 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 	* Results of the risk assessment are documented in an official report, spreadsheet, or briefing and provided to senior management to make decisions on policy, procedure, budget, and Platform operational and management changes.
 	* Output – A risk assessment report that describes the threats and vulnerabilities, measures the risk, and provides recommendations for control implementation.
 
-**Risk Mitigation**: Risk mitigation involves prioritizing, evaluating, and implementing the appropriate risk-reducing controls recommended from the Risk Assessment process to ensure the confidentiality, integrity and availability of Catalyze Platform ePHI. Determination of appropriate controls to reduce risk is dependent upon the risk tolerance of the organization consistent with its goals and mission. 
+**Risk Mitigation**: Risk mitigation involves prioritizing, evaluating, and implementing the appropriate risk-reducing controls recommended from the Risk Assessment process to ensure the confidentiality, integrity and availability of Datica Platform ePHI. Determination of appropriate controls to reduce risk is dependent upon the risk tolerance of the organization consistent with its goals and mission.
 
 * Step 1. Prioritize Actions
 	* Using results from Step 7 of the Risk Assessment, sort the threat and vulnerability pairs according to their risk-levels in descending order. This establishes a prioritized list of actions needing to be taken, with the pairs at the top of the list getting/requiring the most immediate attention and top priority in allocating resources
@@ -89,10 +89,10 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 	* Output – Documented cost-benefit analysis of either implementing or not implementing each specific control
 
 * Step 4. Select Control(s)
-	* Taking into account the information and results from previous steps, Catalyze’s mission, and other important criteria, the Risk Management Team determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
+	* Taking into account the information and results from previous steps, Datica’s mission, and other important criteria, the Risk Management Team determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
 	* Output – Selected control(s)
 
-* Step 5. Assign Responsibility 
+* Step 5. Assign Responsibility
 	* Identify the workforce members with the skills necessary to implement each of the specific controls outlined in the previous step, and assign their responsibilities. Also identify the equipment, training and other resources needed for the successful implementation of controls. Resources may include time, money, equipment, etc.
 	* Output – List of resources, responsible persons and their assignments
 
@@ -106,7 +106,7 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 		* Start date for implementation
 		* Target date for completion of implementation;
 		* Maintenance requirements.
-	* The overall implementation plan provides a broad overview of the safeguard implementation, identifying important milestones and timeframes, resource requirements (staff and other individuals’ time, budget, etc.), interrelationships between projects, and any other relevant information. Regular status reporting of the plan, along with key metrics and success indicators should be reported to Catalyze Senior Management.
+	* The overall implementation plan provides a broad overview of the safeguard implementation, identifying important milestones and timeframes, resource requirements (staff and other individuals’ time, budget, etc.), interrelationships between projects, and any other relevant information. Regular status reporting of the plan, along with key metrics and success indicators should be reported to Datica Senior Management.
 	* Individual project plans for safeguard implementation may be developed and contain detailed steps that resources assigned carry out to meet implementation timeframes and expectations. Additionally, consider including items in individual project plans such as a project scope, a list deliverables, key assumptions, objectives, task completion dates and project requirements.
 	* Output – Safeguard Implementation Plan
 
@@ -117,11 +117,11 @@ This policy establishes the scope, objectives, and procedures of Catalyze's info
 	* If risk reduction expectations are not met, then repeat all or a part of the risk management process so that additional controls needed to lower risk to an acceptable level can be identified.
 	* Output – Residual Risk documentation
 
-**Risk Management Schedule**: The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following schedule to ensure the continued adequacy and continuous improvement of Catalyze’s information security program:
+**Risk Management Schedule**: The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following schedule to ensure the continued adequacy and continuous improvement of Datica’s information security program:
 
-* Scheduled Basis – an overall risk assessment of Catalyze’s information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
+* Scheduled Basis – an overall risk assessment of Datica’s information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System’s Development Life Cycle – from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
-* As Needed – the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Catalyze’s Platform.
+* As Needed – the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Datica’s Platform.
 
 ## Process Documentation
 

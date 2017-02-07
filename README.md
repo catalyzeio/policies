@@ -1,6 +1,6 @@
-# Catalyze HIPAA Compliance Policies
+# Datica HIPAA Compliance Policies
 
-HIPAA compliance is complicated, but it doesn't have to be. Catalyze helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
+HIPAA compliance is complicated, but it doesn't have to be. Datica helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
 
 In an effort to make compliance as easy as possible for companies working with protected health information (PHI), we decided to open source our company policies.
 
@@ -10,7 +10,7 @@ Do you handle PHI and not yet have your own company policies in place? Then you'
 
 ## Why did we open source these policies?
 
-HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Catalyze builds its platform with these guidelines in mind.
+HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Datica builds its platform with these guidelines in mind.
 
 The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), and managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
 
@@ -23,16 +23,16 @@ By open sourcing our own company policies, we hope other companies who handle PH
 As a company who handles PHI, it's critical you maintain and publish your own policies. To make use of our policies, we recommend the following steps.
 
 1. Read through all the enclosed policies to get an understanding to the structure.
-2. When ready, download the policies and comb through for mentions of Catalyze or our business and change to appropriate references to your company.
-3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://catalyze.io/policy/).
+2. When ready, download the policies and comb through for mentions of Datica or our business and change to appropriate references to your company.
+3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.datica.com).
 
 ## Who is behind this?
 
-[Catalyze.io](htts://catalyze.io), healthcare's trusted HIPAA-compliant platform.
+[Datica](htts://datica.com), healthcare's trusted HTRUST CSF Certified digital health platform.
 
-We help companies who handle PHI, both business associates and covered entities, maintain compliance with our Platform as a Service, Mobile Backend as a Service, and managed data integration services. Think Heroku and Parse for healthcare. In addition, we also provide HL7 Integration for those who need to communicate with EHR vendors like Epic or Cerner.
+We help companies who handle PHI, both business associates and covered entities, maintain compliance with our ([Compliant Cloud](https://datica.com/compliant-cloud)) and ([Managed Integration](https://datica.com)).
 
-To get in touch, shoot us an email at [hello@catalyze.io](mailto:hello@catalyze.io). We'd love to hear from you!
+To get in touch, shoot us an email at [hello@datica.com](mailto:hello@datica.com). We'd love to hear from you!
 
 ### License
 
@@ -55,7 +55,7 @@ Each policy is included as it's own markdown file in case you want to cherry pic
 * [Facility Access Policy](source/sections/facility_access_policy.md)
 * [Incident Response Policy](source/sections/incident_response_policy.md)
 * [Breach Policy](source/sections/breach_policy.md)
-* [Disaster Recover Policy](source/sections/disaster_recovery_policy.md)
+* [Disaster Recovery Policy](source/sections/disaster_recovery_policy.md)
 * [Disposable Media Policy](source/sections/disposable_media_policy.md)
 * [IDS Policy](source/sections/ids_policy.md)
 * [Vulnerability Scanning Policy](source/sections/vulnerability_scanning_policy.md)
@@ -65,5 +65,5 @@ Each policy is included as it's own markdown file in case you want to cherry pic
 * [Approved Tools Policy](source/sections/approved_tools_policy.md)
 * [3rd Party Policy](source/sections/3rd_party_policy.md)
 * [Key Definitions](source/sections/key_definitions.md)
-* [Catalyze HIPAA Business Associate Agreement (“BAA”)](source/sections/catalyze_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Catalyze Controls](source/sections/hipaa_mapping_to_catalyze_controls.md)
+* [Datica HIPAA Business Associate Agreement (“BAA”)](source/sections/datica_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to Datica Controls](source/sections/hipaa_mapping_to_datica_controls.md)
