@@ -3,33 +3,32 @@
 BIND Information Security used these opensource policies as the starting basis of our policies.  We will continue to customize to our needs and compare to the updates made from the forked repository from Datica (formerly Catalyze.io), https://github.com/catalyzeio/policies.
 
 ##Setup steps
-1. Go to the [github repo page](https://github.com/catalyzeio/policies) and click on fork (upper right-hand corner)
-2. It will ask: "where should we fork the repo"; choose your account
-3. In the upper right-hand click the drop down menu "Clone or download"
+1. Go to the [BIND forked version of the Catalyze policies](https://github.com/BindBenefits/policies).
+2. In the upper right-hand click the drop down menu "Clone or download"
     * click on "Use SSH" if it isn't already selected
     * Grab the ssh url
-4. clone your fork to your local box working directory
+3. clone your fork to your local box working directory
     ```
     git@github.com:BindBenefits/policies.git
-5. do a: git remote -v to show your remotes you should see something like this:
+4. do a: git remote -v to show your remotes you should see something like this:
     ```
     $ git remote -v
     origin  git@github.com:user/policies.git (fetch)
     origin  git@github.com:user/policies.git (push)
-6. add the upstream:
+5. add the upstream:
     ```
     git remote add upstream git@github.com:catalyzeio/policies.git
-7. look at the remotes:
+6. look at the remotes:
     ```
     $ git remote -v
     origin	git@github.com:BindBenefits/policies.git (fetch)
     origin	git@github.com:BindBenefits/policies.git (push)
     upstream	git@github.com:catalyzeio/policies.git (fetch)
     upstream	git@github.com:catalyzeio/policies.git (push)
-8. set the upstream to no-push so you don't accidently push to the bloomhealth
+7. set the upstream to no-push so you don't accidently push to the catalyze/datica repository (although wouldn't have permissions I don't believe)
     ```
     git remote set-url --push upstream no-pushing
-9. Finally you should see this:
+8. Finally you should see this:
     ```
     git remote -v
     origin	git@github.com:BindBenefits/policies.git (fetch)
