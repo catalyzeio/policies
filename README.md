@@ -24,7 +24,45 @@ As a company who handles PHI, it's critical you maintain and publish your own po
 
 1. Read through all the enclosed policies to get an understanding to the structure.
 2. When ready, download the policies and comb through for mentions of Datica or our business and change to appropriate references to your company.
-3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.datica.com).
+3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.datica.com). See the section below on how to generate static webpages below.
+
+## Publish policies automatically
+
+This repo can build the policies into static webpages using `Rake`. If you are using macOS, you should have Ruby pre-installed. Otherwise, make sure to [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [RubyGems](https://rubygems.org/pages/download/). Check to make sure you have rake and bundler installed by running:
+```bash
+$ rake --version
+# => rake, version 12.0.0
+$ bundle version
+# => Bundler version 1.13.7
+```
+
+If you don't have rake or bundler, run:
+```bash
+$ gem install rake
+$ gem install bundler
+```
+
+Now we can get the repo bootstrapped. Run:
+```bash
+$ bundle install # installs the dependencies
+```
+
+**NOTE**: in case `bundle install` fails due to nokogiri, run the following:
+```bash
+$ gem uninstall nokogiri
+$ xcode-select --install
+$ gem install nokogiri
+```
+
+Once the dependencies have been installed, we can build the markdown files into a compliance site. Here are some of the commands you can run:
+```bash
+# Build files into static site with HTML, CSS, JS.
+$ rake build
+# Preview the compliance site on localhost:8888
+$ rake serve_static
+```
+
+Now you can use the generated `build/` directory and push it to a web server on your host!
 
 ## Who is behind this?
 
