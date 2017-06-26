@@ -24,6 +24,6 @@ Bind implements policies and procedures to maintain compliance and integrity of 
 	1. Version history of all Bind policies is done via Github.
 	2. Backup storage of all policies is done with Dropbox.
 6. The policies and information security policies are reviewed and audited annually. Issues that come up as part of this process are reviewed by Bind management to assure all risks and potential gaps are mitigated and/or fully addressed. The policy review form can be found [here](https://docs.google.com/a/catalyze.io/forms/d/1kuyIYA-Z-tmRdfMwrVMl59BujIy9y1dyjMSd8_Wy760/viewform) TODO: Create Notion page to memorialize the review process.
-7. Bind utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Bind also tracks compliance with HIPAA and publishes results [here](https://hipaa.yourbind.com) TODO: Fork and complete - https://github.com/catalyzeio/HIPAA.
+7. Bind utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis (TODO: We will need to determine if we use the MyCSF or another tool $$ - https://hitrustalliance.net/mycsf/). Bind also tracks compliance with HIPAA and publishes results [here](https://hipaa.yourbind.com) TODO: Fork and complete - https://github.com/catalyzeio/HIPAA.
 
 Additional documentation related to maintenance of policies is outlined in the Security officers responsibilities.
