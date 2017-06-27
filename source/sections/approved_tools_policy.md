@@ -12,6 +12,8 @@ Bind utilizes a suite of approved software tools for internal use by workforce m
 
 * **Atlassian Jira**. Jira is used for project management of the Bind software development process.
 
+* **Lucidchart**. Lucidchart is the Bind standard for our diagram tooling, sharing, and collaborating (comparable to Visio, Omnigraffle).
+
 * **Slack**. Slack is used for team and direct instant messaging to Bind co-workers.
 
 * **Jumpcloud**. Jumpcloud is Bind's central directory of users that is integrated into other systems access.  
