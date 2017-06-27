@@ -1,4 +1,4 @@
-# Approved Tools PolicyD
+# Approved Tools Policy
 
 Bind utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Bind, or they are hosted by a Subcontractor with appropriate business associate agreements in place to preserve data integrity. Use of other tools requires approval from Bind leadership.
 
@@ -16,6 +16,6 @@ Bind utilizes a suite of approved software tools for internal use by workforce m
 
 * **Jumpcloud**. Jumpcloud is Bind's central directory of users that is integrated into other systems access.  
 
-* **Github**. Github is Bind's source control repository solution built on top of Git, the version control platform. It is utilized for storage of configuration scripts and other infrastructure automation tools, as well as for source and version control of application code used by BindD
-dddd
-*** NOTE: NONE OF THESE APPROVED TOOLS ARE APPROVED TO COMMUNICATE PHI/PII (SENSITIVE DATA) ***
+* **Github**. Github is Bind's source control repository solution built on top of Git, the version control platform. It is utilized for storage of configuration scripts and other infrastructure automation tools, as well as for source and version control of application code used by Bind.
+
+***NOTE: NONE OF THESE APPROVED TOOLS ARE APPROVED TO COMMUNICATE PHI/PII (SENSITIVE DATA)***
