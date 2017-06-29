@@ -30,6 +30,6 @@ Bind is committed to ensuring all workforce members actively address security an
 ###-Do we plan on doing this?-###8. All Bind-purchased and -owned computers are to display this message at login and when the computer is unlocked: *This computer is owned by Bind Benefits Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (link to Bind policies) and have completed this training (link to Bind training). Please contact us if you have problems with this - email@yourbind.com*.
 9. Employees may only use Bind-purchased and -owned workstations for accessing production systems with access to ePHI data.
 	* Any workstations used to access production systems must be configured as prescribed by the [Employee Workstation Use](#employee-workstation-use) section of the Systems Access Policy.
-	* Any workstations used to access production systems must have virus protection software installed, configured, and enabled.
+	* Any workstations used to access production systems must have virus protection software installed, configured, and enabled.  Compliance is monitored and enforced from a central management console.
 10. Access to internal Bind systems can be requested using this [form](https://thebind.atlassian.net/servicedesk/customer/portal/1/create/18). All requests for access must be granted by the Bind Security Officer or appropriate manager.
 11. Request for modifications of access for any Bind employee can be made using this [form](same ticket type?).
