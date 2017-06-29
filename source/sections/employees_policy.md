@@ -33,3 +33,4 @@ Bind is committed to ensuring all workforce members actively address security an
 	* Any workstations used to access production systems must have virus protection software installed, configured, and enabled.  Compliance is monitored and enforced from a central management console.
 10. Access to internal Bind systems can be requested using this [form](https://thebind.atlassian.net/servicedesk/customer/portal/1/create/18). All requests for access must be granted by the Bind Security Officer or appropriate manager.
 11. Request for modifications of access for any Bind employee can be made using this [form](https://thebind.atlassian.net/servicedesk/customer/portal/1/create/18).
+12. TODO: Reference the Bind Employee Handbook and what elements it covers with respect to SIG Lite controls
