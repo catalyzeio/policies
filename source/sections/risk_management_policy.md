@@ -32,7 +32,7 @@ This policy establishes the scope, objectives, and procedures of Bind's informat
 4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Bind’s Security Officer.
 5. All Bind workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Bind Roles Policy.
 6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Bind’s Security Officer (or other designated employee), and the identified Risk Management Team.
-7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
+7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained in the Jira "Security" (SEC) project for six years at a minimum.
 
 ## Risk Management Procedures
 
