@@ -31,7 +31,7 @@ Access to Bind systems and application is limited for all users, including but n
 
 ## Access Establishment and Modification
 
-* Requests for access to Bind Platform systems and applications is made formally to the VP of Engineering, Privacy Officer, or Security Officer.
+* Requests for access to Bind Platform systems and applications is made formally to the Chief Technology Officer, Privacy Officer, or Security Officer.
 * Access is not granted until receipt, review, and approval by the Bind Security Officer;
 * The request for access is retained for future reference.
 * All access to Bind systems and services are reviewed and updated on an bi-annual basis to assure proper authorizations are in place commensurate with job functions. The form used to conduct account review is [here](https://docs.google.com/a/catalyze.io/forms/d/1oeejMta4XLiUsdH2gTKQ-glec6DBiwPJoY9F60HmPWk/viewform).
@@ -44,7 +44,7 @@ Access to Bind systems and application is limited for all users, including but n
 * Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
 * All application to application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
 * Generic accounts are not allowed on Bind systems.
-* Access is granted through encrypted, VPN tunnels.
+* Access is granted through encrypted, VPN tunnels. Bind uses Cato Networks VPN technology.
 	* VPN utilizes AES 256 bit encryption.
 * In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 * Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
