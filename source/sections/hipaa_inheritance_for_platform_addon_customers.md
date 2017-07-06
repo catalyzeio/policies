@@ -35,7 +35,7 @@ Business Associate Contracts or Other Arrangements - 164.314(a)(1)(i) | Business
 Policies and Procedures - 164.316(a) | Policy Management Policy | Partially
 Documentation - 164.316(b)(1)(i) | Policy Management Policy | Partially
 
-| **HITECH Act - Security Provisions** HIPAA Rule | Bindica Control | Inherited
+| **HITECH Act - Security Provisions** HIPAA Rule | Bind Control | Inherited
 --- | --- | ---
 Notification in the Case of Breach - 13402(a) and (b) | Breach Policy | Yes
 Timelines of Notification - 13402(d)(1) | Breach Policy | Yes
