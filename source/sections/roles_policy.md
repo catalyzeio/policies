@@ -35,7 +35,7 @@ The current Bind Privacy Officer is TBD ([email@yourbind.com](mailto:email@yourb
 
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years.
 
-3. The training session focuses on, but is not limited to, the following subjects defined in Bind's security policies and procedures:
+3. The training session focuses on, but is not limited to, the following subjects defined in Bind's security policies and procedures: TODO: Need training material/process
 	1. HIPAA Privacy, Security, and Breach notification rules;
 	2. HITRUST Common Security Framework;
 	3. NIST Security Rules;
@@ -95,7 +95,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Bind Breach Policy](./#breach).
 
-13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:
+13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:  TODO: need a lunch & learn and/or training overview session of some sort for EEs
 	1. Latest malicious software or virus alerts;
 	2. Bind’s requirement to report unauthorized attempts to access ePHI;
 	3. Changes in creating or changing passwords;
