@@ -2,7 +2,7 @@
 
 Bind has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with Bind Add-ons and for PaaS Customers utilizing our Backup Service. This policy, and associated procedures for testing and restoring from backup data, do not apply to PaaS Customers that do not choose Bind Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Bind.
 
-Data backup is an important part of the day-to-day operations of Bind. To protect the confidentiality, integrity, and availability of ePHI, both for Bind and Bind Customers, completes backups are done daily to assure that data remains available when it needed and in case of disaster. Bind uses Amazon RDS services to provide high availability and cross reqion snapshots for data availability and recovery.
+Data backup is an important part of the day-to-day operations of Bind. To protect the confidentiality, integrity, and availability of ePHI, both for Bind and Bind Customers, complete backups are done daily to assure that data remains available when it needed and in case of disaster. Bind uses Amazon RDS services to provide high availability and cross reqion snapshots for data availability and recovery.
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
