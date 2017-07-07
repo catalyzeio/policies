@@ -1,16 +1,16 @@
 # Auditing Policy
 
-Datica shall audit access and activity of electronic protected health information (ePHI) applications and systems in order to ensure compliance. The Security Rule requires healthcare organizations to implement reasonable hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use ePHI. Audit activities may be limited by application, system, and/or network auditing capabilities and resources. Datica shall make reasonable and good-faith efforts to safeguard information privacy and security through a well-thought-out approach to auditing that is consistent with available resources.
+Bind shall audit access and activity of electronic protected health information (ePHI) applications and systems in order to ensure compliance. The Security Rule requires healthcare organizations to implement reasonable hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use ePHI. Audit activities may be limited by application, system, and/or network auditing capabilities and resources. Bind shall make reasonable and good-faith efforts to safeguard information privacy and security through a well-thought-out approach to auditing that is consistent with available resources.
 
-It is the policy of Datica to safeguard the confidentiality, integrity, and availability of applications, systems, and networks. To ensure that appropriate safeguards are in place and effective, Datica shall audit access and activity to detect, report, and guard against:
+It is the policy of Bind to safeguard the confidentiality, integrity, and availability of applications, systems, and networks. To ensure that appropriate safeguards are in place and effective, Bind shall audit access and activity to detect, report, and guard against:
 
 * Network vulnerabilities and intrusions;
-* Breaches in confidentiality and security of patient protected health information;
+* Breaches in confidentiality and security of member protected health information;
 * Performance problems and flaws in applications;
 * Improper alteration or destruction of ePHI;
 * Out of date software and/or software known to have vulnerabilities.
 
-This policy applies to all Datica Add-on systems, including BaaS, that store, transmit, or process ePHI. This policy, and associated procedures, do not apply to PaaS Customers that do not choose Datica Logging Service.
+This policy applies to all Bind systems, including PaaS, that store, transmit, or process ePHI. 
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -34,12 +34,12 @@ This policy applies to all Datica Add-on systems, including BaaS, that store, tr
 
 # Auditing Policies
 
-1. Responsibility for auditing information system access and activity is assigned to Datica’s Security Officer. The Security Officer shall:
+1. Responsibility for auditing information system access and activity is assigned to Bind’s Security Officer. The Security Officer shall:
 	* Assign the task of generating reports for audit activities to the workforce member responsible for the application, system, or network;
 	* Assign the task of reviewing the audit reports to the workforce member responsible for the application, system, or network, the Privacy Officer, or any other individual determined to be appropriate for the task;
 	* Organize and provide oversight to a team structure charged with audit compliance activities (e.g., parameters, frequency, sample sizes, report formats, evaluation, follow-up, etc.).
-	* All connections to Datica are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on an annual basis.
-2. Datica’s auditing processes shall address access and activity at the following levels listed below. In the case of PaaS Customers, Application and User level auditing is the responsibility of the Customer; Datica provides software to aggregate and view User and Application logs, but the log data collected is the responsibility of the PaaS Customer. Auditing processes may address date and time of each log-on attempt, date and time of each log-off attempt, devices used, functions performed, etc.
+	* All connections to Bind are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on an annual basis.
+2. Bind’s auditing processes shall address access and activity at the following levels listed below. -In the case of PaaS Customers, Application and User level auditing is the responsibility of the Customer; Bind provides software to aggregate and view User and Application logs, but the log data collected is the responsibility of the PaaS Customer.- Auditing processes may address date and time of each log-on attempt, date and time of each log-off attempt, devices used, functions performed, etc.
 	* User: User level audit trails generally monitor and log all commands directly initiated by the user, all identification and authentication attempts, and data and services accessed.
 	* Application: Application level audit trails generally monitor and log all user activities, including data accessed and modified and specific actions.
 	* System: System level audit trails generally monitor and log user activities, applications accessed, and other system defined specific actions. Datica utilizes file system monitoring from OSSEC to assure the integrity of file system data.
