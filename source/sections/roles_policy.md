@@ -82,7 +82,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 6. Provides copies of the policies and procedures to management, customers, and partners, and has them available to review by all other workforce members to which they apply.
 
-7. Annually, and as necessary, reviews and updates documentation to respond to environmental or operational changes affecting the security and risk posture of ePHI stored, transmitted, or processed within Datica infrastructure.
+7. Annually, and as necessary, reviews and updates documentation to respond to environmental or operational changes affecting the security and risk posture of ePHI stored, transmitted, or processed within Bind infrastructure.
 
 9. Develops and provides periodic security updates and reminder communications for all workforce members.
 
@@ -97,7 +97,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:
 	1. Latest malicious software or virus alerts;
-	2. Datica’s requirement to report unauthorized attempts to access ePHI;
+	2. Bind’s requirement to report unauthorized attempts to access ePHI;
 	3. Changes in creating or changing passwords;
 	4. Additional security-focused training is provided to all workforce members by the Security Officer.  This training includes, but is not limited to:
 	5. Data backup plans;
@@ -111,31 +111,31 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 ## Supervision of Workforce Responsibilities
 
-Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Datica’s systems, applications, servers, workstations, etc. that contain ePHI.
+Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Bind’s systems, applications, servers, workstations, etc. that contain ePHI.
 
 1. Monitor workstations and applications for unauthorized use, tampering, and theft and report non-compliance according to the Security Incident Response policy.
 
 2. Assist the Security and Privacy Officers to ensure appropriate role-based access is provided to all users.
 
-3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulation and Datica’s security policies and procedures.
+3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulation and Bind’s security policies and procedures.
 
 ## Sanctions of Workforce Responsibilities
 
-All workforce members report non-compliance of Datica’s policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
+All workforce members report non-compliance of Bind’s policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
 
-1. The Security Officer promptly facilitates a thorough investigation of all reported violations of Datica’s security policies and procedures.  The Security Officer may request the assistance from others.
+1. The Security Officer promptly facilitates a thorough investigation of all reported violations of Bind’s security policies and procedures.  The Security Officer may request the assistance from others.
 	1. Complete an audit trail/log to identify and verify the violation and sequence of events.
 	2. Interview any individual that may be aware of or involved in the incident.
 	3. All individuals are required to cooperate with the investigation process and provide factual information to those conducting the investigation.
-	4. Provide individuals suspected of non-compliance of the Security rule and/or Datica’s policies and procedures the opportunity to explain their actions.
+	4. Provide individuals suspected of non-compliance of the Security rule and/or Bind’s policies and procedures the opportunity to explain their actions.
 	5. The investigators thoroughly documents the investigation as the investigation occurs.
 
 2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment.  Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges.  Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations.
-  8. A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Datica.
+  8. A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Bind.
 
 3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
 
-4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Datica workforce members are encouraged to come forward with information about insider threats, and can do so anonymously.
+4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Bind workforce members are encouraged to come forward with information about insider threats, and can do so anonymously.
 
 5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation.
 
