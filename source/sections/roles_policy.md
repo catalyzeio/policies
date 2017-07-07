@@ -42,7 +42,7 @@ The current Bind Privacy Officer is TBD ([email@yourbind.com](mailto:email@yourb
 	4. Risk Management procedures and documentation;
 	5. Auditing.  Bind may monitor access and activities of all users;
 	6. Workstations may only be used to perform assigned job responsibilities;
-	7. Users may not download software onto Bind’s workstations and/or systems without prior approval from the Security Officer;
+	7. Users may not download software onto Bind’s workstations and/or systems without prior approval from the Security Officer; TODO:  We have to review this
 	8. Users are required to report malicious software to the Security Officer immediately;
 	9. Users are required to report unauthorized attempts, uses of, and theft of Bind’s systems and/or workstations;
 	10. Users are required to report unauthorized access to facilities
