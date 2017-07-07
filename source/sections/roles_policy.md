@@ -1,6 +1,6 @@
 # Roles Policy
 
-Datica has a Security Officer [164.308(a)(2)] and Privacy Officer  [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+Bind has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -23,32 +23,32 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Datica Privacy Officer is Travis Good ([travis@datica.com](mailto:travis@datica.com)).
+The current Bind Privacy Officer is TBD ([email@yourbind.com](mailto:email@yourbind.com)). TODO:  Appoint Privacy Officer
 
 ## Workforce Training Responsibilities
 
 1. The Privacy Officer facilitates the training of all workforce members as follows:
-	1. New workforce members within their first month of employment;
+	1. New workforce members within their first day of employment;
 	2. Existing workforce members annually;
 	3. Existing workforce members whose functions are affected by a material change in the policies and procedures, within a month after the material change becomes effective;
-	4. Existing workforce members as needed due to changes in security and risk posture of Datica.
+	4. Existing workforce members as needed due to changes in security and risk posture of Bind.
 
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years.
 
-3. The training session focuses on, but is not limited to, the following subjects defined in Datica's security policies and procedures:
+3. The training session focuses on, but is not limited to, the following subjects defined in Bind's security policies and procedures:
 	1. HIPAA Privacy, Security, and Breach notification rules;
 	2. HITRUST Common Security Framework;
 	3. NIST Security Rules;
 	4. Risk Management procedures and documentation;
-	5. Auditing.  Datica may monitor access and activities of all users;
+	5. Auditing.  Bind may monitor access and activities of all users;
 	6. Workstations may only be used to perform assigned job responsibilities;
-	7. Users may not download software onto Datica’s workstations and/or systems without prior approval from the Security Officer;
+	7. Users may not download software onto Bind’s workstations and/or systems without prior approval from the Security Officer;
 	8. Users are required to report malicious software to the Security Officer immediately;
-	9. Users are required to report unauthorized attempts, uses of, and theft of Datica’s systems and/or workstations;
+	9. Users are required to report unauthorized attempts, uses of, and theft of Bind’s systems and/or workstations;
 	10. Users are required to report unauthorized access to facilities
 	11. Users are required to report noted log-in discrepancies (i.e. application states users last log-in was on a date user was on vacation;
-	12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Datica Customer;
-	13. Users are required to understand their role in Datica’s contingency plan;
+	12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Bind Customer;
+	13. Users are required to understand their role in Bind’s contingency plan;
 	14. Users may not share their user names nor passwords with anyone;
 	15. Requirements for users to create and change passwords;
 	16. Users must set all applications that contain or transmit ePHI to automatically log off after “X” minutes of inactivity;
@@ -62,13 +62,13 @@ The current Datica Privacy Officer is Travis Good ([travis@datica.com](mailto:tr
 
 ## Security Officer
 
-The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Datica security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
+The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Bind security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Datica Security Officer is Adam Leko ([adam@datica.com](mailto:adam@datica.com)).
+The current Bind Security Officer is Chad Small ([chad.small@yourbind.com](mailto:chad.small@yourbind.com)).
 
 ## Organizational Responsibilities
 
-The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, implementation, and oversight of all activities pertaining to Datica’s efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks.  The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.  These organizational responsibilities include, but are not limited to the following:
+The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, implementation, and oversight of all activities pertaining to Bind’s efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks.  The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.  These organizational responsibilities include, but are not limited to the following:
 
 1. Oversees and enforces all activities necessary to maintain compliance and verifies the activities are in alignment with the requirements.
 
@@ -90,10 +90,10 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 11. Maintains a program promoting workforce members to report non-compliance with policies and procedures.
 	1. Promptly, properly, and consistently investigates and addresses reported violations and takes steps to prevent recurrence.
-	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Datica.
-	3. Mitigates, to the extent practicable, any harmful effect known to Datica of a use or disclosure of ePHI in violation of Datica’s policies and procedures, even if effect is the result of actions of Datica business associates, customers, and/or partners.
+	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Bind.
+	3. Mitigates, to the extent practicable, any harmful effect known to Bind of a use or disclosure of ePHI in violation of Bind’s policies and procedures, even if effect is the result of actions of Bind business associates, customers, and/or partners.
 
-12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Datica Breach Policy](./#breach).
+12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Bind Breach Policy](./#breach).
 
 13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:
 	1. Latest malicious software or virus alerts;
