@@ -1,6 +1,6 @@
 # Configuration Management Policy
 
-Datica standardizes and automates configuration management through the use of Chef/Salt scripts as well as documentation of all changes to production systems and networks. Chef and Salt automatically configure all Datica systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
+Bind standardizes and automates an infrastructure as code (IAC) through the use of [Packer] (https://www.packer.io/) maching image building, Docker container/Salt scripts as well as documentation of all changes to production systems and networks. Chef and Salt automatically configure all Datica systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process. d
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
