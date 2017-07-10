@@ -6,7 +6,7 @@ Despite not being a requirement within HIPAA, Bind understand and appreciates th
 
 * [Listing of state requirements for medical record retention](http://www.healthit.gov/sites/default/files/appa7-1.pdf)
 
-## 18.2 Data Retention Policy
+## 18.2 Data Retention Policy - TODO: Review whole policy
 
 * Current Bind Customers have data stored by Bind as a part of the Bind Service.
 * Once a Customer ceases to be a Customer, as defined below, the following steps are
