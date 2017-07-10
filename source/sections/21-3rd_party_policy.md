@@ -1,6 +1,6 @@
 # 21. 3rd Party Policy
 
-BIND makes every effort to assure all 3rd party organizations are compliant and do not compromise the integrity, security, and privacy of Datica or Datica Customer data. 3rd Parties include Customers, Partners, Subcontractors, and Contracted Developers.
+BIND makes every effort to assure all 3rd party organizations are compliant and do not compromise the integrity, security, and privacy of Bind or Bind Customer data. 3rd Parties include Customers, Partners, Subcontractors, and Contracted Developers.
 
 ## 21.1 Applicable Standards
 
@@ -17,13 +17,13 @@ BIND makes every effort to assure all 3rd party organizations are compliant and 
 
 * 164.314(a)(1)(i) - Business Associate Contracts or Other Arrangements
 
-## 21.2 Policies to Assure 3rd Parties Support Datica Compliance
+## 21.2 Policies to Assure 3rd Parties Support Bind Compliance
 
-1. The following steps are required before 3rd parties are granted access to any Datica systems:
+1. The following steps are required before 3rd parties are granted access to any Bind systems:
 	* Due diligence with the 3rd party;
 	* Controls implemented to maintain compliance;
 	* Written agreements, with appropriate security requirements, are executed.
-2. All connections and data in transit between the Datica Platform and 3rd parties are encrypted end to end.
+2. All connections and data in transit between the Bind Platform and 3rd parties are encrypted end to end.
 3. Access granted to external parties is limited to the minimum necessary and granted only for the duration required.
 4. A standard business associate agreement with Customers and Partners is defined and includes the required security controls in accordance with the organization’s security policies. Additionally, responsibility is assigned in these agreements.
 5. Bind has Service Level Agreements (SLAs) with Subcontractors with an agreed service arrangement addressing liability, service definitions, security controls, and aspects of services management.
@@ -33,7 +33,7 @@ BIND makes every effort to assure all 3rd party organizations are compliant and 
 6. No Bind Customers or Partners have access outside of their own environment, meaning they cannot access, modify, or delete anything related to other 3rd parties.
 7. Whenever outsourced development is utilized by Bind, all changes to production systems will be approved and implemented by Bind workforce members only. All outsourced development requires a formal contract with Bind.
 8. Bind maintains and annually reviews a list all current Partners and Subcontractors.
-   * The list of current Partners and Subcontractors is maintained by the Bind Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.4](#1.4-datica-organizational-concepts).
+   * The list of current Partners and Subcontractors is maintained by the Bind Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.4](#1.4-bind-organizational-concepts).
    * The annual review of Partners and Subcontractors is conducted as a part of the security, compliance, and SLA review referenced below.
 10. Bind assesses security requirements and compliance considerations with all Partners and Subcontracts. This includes annual assessment of SOC2 Reports for all Bind infrastructure partners.
   * Bind leverages recurring calendar invites to assure reviews of SLAs with all 3rd parties are performed annually. These are performed by the Bind Security Officer and Privacy Officer. Jira issues and forms stored in Dropbox are used to track such reviews. The process for reviewing 3rd party services is outlined below:
