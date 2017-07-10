@@ -2,8 +2,7 @@
 
 Bind works with Subcontractors to assure restriction of physical access to systems used as part of the Bind Platform. Bind and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Bind workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Bind facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Bind’s facility.
 
-Of note, Bind utilizes Amazon Web Services (AWS) infrastructure as a service (IaaS) in a HIPAA compliant fashion, and as a IaaS, AWS workforce members do not have ready access to ePHI, it provides cloud-based, compliant infrastructure to Bind. Bind does not physically house any systems used by its Platform in Bind facilities. Physical security of our Platform servers is outlined [here](https://aws.amazon.com/security/) and [AWS Security Whitepaper](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf) and [AWS Risk and Compliance Whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf).  Bind limits it's AWS data center (region) use to US East
-N. Virginia, Ohio; US West: N. California, Oregon. TODO:  Any other valuable links to show at this level?
+Of note, Bind utilizes Amazon Web Services (AWS) infrastructure as a service (IaaS) in a HIPAA compliant fashion, and as a IaaS, AWS workforce members do not have ready access to ePHI, it provides cloud-based, compliant infrastructure to Bind. Bind does not physically house any systems used by its Platform in Bind facilities. Physical security of our Platform servers is outlined on the [AWS Security Home Page](https://aws.amazon.com/security/) and [AWS Security Whitepaper](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf) and [AWS Risk and Compliance Whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf).  Bind limits it's AWS data center (region) use to US East (Northern Virginia) for staging and production systems.  Production systems are held in a separate AWS account and all environments are in different [AWS VPCs](https://aws.amazon.com/vpc/) (virtual private cloud)
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -21,8 +20,8 @@ N. Virginia, Ohio; US West: N. California, Oregon. TODO:  Any other valuable lin
 
 ## Bind-controlled Facility Access Policies
 
-1. Visitor and third party support access is recorded and supervised. All visitors are escorted.
-2. Repairs are documented and the documentation is retained.
+1. Visitor and third party support access is recorded and supervised. All visitors are escorted. TODO:  Determine how we will "record" visitor access
+2. Repairs are documented and the documentation is retained. 
 3. Fire extinguishers and detectors are installed according to applicable laws and regulations.
 4. Maintenance is controlled and conducted by authorized personnel in accordance with supplier-recommended intervals, insurance policies and the organizations maintenance program.
 5. Electronic and physical media containing covered information is securely destroyed (or the information securely removed) prior to disposal.
