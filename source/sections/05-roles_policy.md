@@ -62,7 +62,7 @@ The current Bind Privacy Officer is TBD ([email@yourbind.com](mailto:email@yourb
 
 ## 5.3 Security Officer
 
-The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Datica security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
+The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Bind security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
 The current Bind Security Officer is Chad Small ([chad.small@yourbind.com](mailto:chad.small@yourbind.com)).
 
