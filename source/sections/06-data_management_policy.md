@@ -1,6 +1,6 @@
 # 6. Data Management Policy
 
-Bind has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with Bind Employer ODHI Health Insurance and PaaS Customers.  The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Bind.
+Bind has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with Bind Employer On Demand Health Insurance and PaaS Customers.  The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Bind.
 
 Data backup is an important part of the day-to-day operations of Bind. To protect the confidentiality, integrity, and availability of ePHI, both for Bind and Bind Customers, completes backups are done daily to assure that data remains available when it needed and in case of disaster or ransom threat.
 
