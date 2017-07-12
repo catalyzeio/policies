@@ -123,8 +123,8 @@ All workstations at Bind are company owned, and all are laptops running the late
 ## 7.9 Wireless Access Use
 
 1. Bind production systems are not accessible directly over wireless channels.
-2. Wireless access disabled on all production systems.
-3. When access production systems via remote wireless connections, the same system access policies and procedures apply to wireless as all other connections, including wired.
+2. Wireless access is disabled on all production systems.
+3. When accessing production systems via remote wireless connections, the same system access policies and procedures apply to wireless as all other connections, including wired.
 4. Wireless networks managed within Bind non-production facilities (offices, etc) are secured with the following configurations:
   * All data in transit over wireless is encrypted using WPA2 enterprise (802.1x) encryption.
   * TODO (this was removed from the latest upstream): SSIDs are not broadcast;
