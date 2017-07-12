@@ -22,7 +22,7 @@ Violation of this policy and its procedures by workforce members may result in c
 
 1. Perform daily full backups of all systems that process, store, or transmit ePHI for Bind Customers, including PaaS Customers.
 2. Bind Ops Team, lead by Chief Technology Officer, is designated to be in charge of backups.
-3. Dev Ops Team members are trained and assigned assigned to complete backups and manage the backup data. TODO: We need to look into Aurora DB backup process (and/or the multi-AZ/Region option to turn on continuouse backup from a read cluster)
+3. Dev Ops Team members are trained and assigned to complete backups and manage the backup data. TODO: We need to look into Aurora DB backup process (and/or the multi-AZ/Region option to turn on continuouse backup from a read cluster)
 4. Document backups . TODO:  put details here on what/how or reference a Notion page from here that details
 	* Name of the system
 	* Date & time of backup
