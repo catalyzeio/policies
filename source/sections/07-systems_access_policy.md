@@ -45,7 +45,7 @@ Access to Bind systems and application is limited for all users, including but n
      * All password exchanges must occur over an authenticated channel.
      * For production systems, access grants are accomplished by adding the appropriate user account to the corresponding LDAP group.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Bind employee at the discretion of the Security Officer.
-2. Access is not granted until receipt, review, and approval by the Datica Security Officer;
+2. Access is not granted until receipt, review, and approval by the Bind Security Officer;
 3. The request for access is retained for future reference.
 4. All access to Bind systems and services are reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
    1. The Security Officer initiates the review of user access by creating a "Compliance Review Activity" Issue type in the JIRA Security (SEC) Project.
