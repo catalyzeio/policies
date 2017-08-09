@@ -1,0 +1,56 @@
+# Mobile Device Policy
+
+Mobile devices, such as smartphones and tablet computers, are important tools for the organization and their use is supported to achieve business goals.  
+However, mobile devices also represent a significant risk to information and data security. If the appropriate security applications and procedures are not applied, they can be a conduit for unauthorised access to the organization’s data and IT infrastructure.  This can subsequently lead to data leakage and system infection.
+Bind has a requirement to protect its information assets in order to safeguard its customers, intellectual property and reputation. This document outlines a set of practices and requirements for the safe use of mobile devices. 
+
+## Applicable Standards
+
+## Applicable Standards form the HITRUST Common Security Framework
+
+*
+*
+
+## Applicable Standards from the HIPAA Security Rule
+
+*
+*
+
+## Scope
+
+1. All mobile devices, whether owned by Bind or by employees, that have access to coporate networks, data, and/or systems, not including Bind-owned laptops.
+2. Exemptions: Where there is a business need to be exempted form this policy (ie too costly, prohibitive to other business requirements, etc.), a risk assessment must be conducted and approved by security management.
+
+## Technical Requirements
+
+1. Devices must meet or exceed the following OS levels:
+  * Android 6.0 (Marshmallow)
+  * iOS 10.3
+  * Bind reserves the right to change these requirements based upon any vulnerabilities currently known or yet to be discovered.  Please be aware that Bind may decide certain patch levels beyond listed device OS are required to ensure security of corporate information.
+2. Devices must be configured with a lock screen and secure password that complies to Bind password policy.  This must be a unique password to the device and not duplicate password(s) used with other Bind devices and/or services.
+3. Devices must be encrypted
+4. Any device connecting to Bind systems or services must be configured with Bind-provided Mobile Device Management (MDM) software, whether in the form of an application or device certificate.
+  * User understands that this will provide Bind the ability to lock and/or wipe (ie fully erase) the device.
+  * The current MDM solution employed by Bind is [Microsoft Intune?]
+  
+## User Requirements
+
+1. User shall agree to only access, or attempt to access, the following Bind systems on their mobile device(s):
+  * Email - Microsoft Office 365 Outlook
+  * Instant Messaging - Slack
+2. User will take reasonable steps to protect and secure device from loss, theft, or unauthorized use.
+  * Any loss, theft, or suspected unauthorized access shall be treated as an incident and must be reported by the user in alignment with Bind policy (11-incident_response link)
+3. Devices must not be “jailbroken”, "rooted", or have any software/firmware installed which is designed to gain access to functionality not intended to be exposed to the user.
+4. User will not load pirated software or illegal content onto their devices.
+5. User will only install applications from official platform-owner approved sources (ie Apple's App Store or the Google Play Store). Installation of code from un-trusted sources is forbidden.
+6. Devices must not be connected to a PC which does not have up-to-date and enabled anti-malware protection and which does not comply with corporate policy. [can we enforce this?]
+7. No corporate data, such as emails, files, or other information shall be included in device back-ups or transferred to any external storage, such as an SD card.
+8. No other corporate passwords or keys shall be stored on device(s) that would allow access to any Bind services beyond those specifically named within this policy.
+9. Users must not use corporate workstations to backup or synchronise device content such as media files unless such content is required for legitimate business purposes.
+  * Password sycing via iCloud is prohibited
+10. User will only connect device(s) to the Bind wifi network whose SSID = "BYOD"
+  * User may not connect to the "YourBind" or "BindGuest" SSIDs
+11. User agrees that they will not conduct any Bind business funtions over an unsecured or public wifi network.
+
+
+[Do we want to outline acceptable mail clients?]	Users may must be cautious about the merging of personal and work email accounts on their devices.  They must take particular care to ensure that company data is only sent through the corporate email system. If a user suspects that company data has been sent from a personal email account, either in body text or as an attachment, they must notify Bind security officer immediately.
