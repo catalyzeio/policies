@@ -145,10 +145,10 @@ It is important to note that the processes surrounding security incident respons
 
 ## 11.3 Security Incident Response Team (SIRT)
 
-Current members of the Bind SIRT:  TODO: Review
+Current members of the Bind SIRT:
 
-* Security Officer
-* Privacy Officer
-* Chief Technology Officer
-* DevOps Lead
-* IT/TechOps Lead
+* Security Officer - Chad Small
+* Privacy Officer - Aly Mulgrew
+* Chief Technology Officer - Glen Eiden
+* DevOps Lead - Charley Hastings
+* IT/TechOps Lead - Evan Jackson
