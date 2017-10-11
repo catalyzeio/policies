@@ -2,7 +2,7 @@
 
 * *Application*: An application hosted by Datica, either maintained and created by Datica, or maintained and created by a Customer or Partner.
 
-* *Application Level*: Controls and security associated with an Application. In the case of PaaS Customers, Datica does not have access to and cannot assure compliance with security standards and policies at the Application Level.
+* *Application Level*: Controls and security associated with an Application. In the case of Platform Customers, Datica does not have access to and cannot assure compliance with security standards and policies at the Application Level.
 
 * *Audit*: Internal process of reviewing information system access and activity (e.g., log-ins, file accesses, and security incidents). An audit may be done as a periodic event, as a result of a patient complaint, or suspicion of employee wrongdoing.
 
@@ -16,7 +16,7 @@
 
 * *Backup*: The process of making an electronic copy of data stored in a computer system. This can either be complete, meaning all data and programs, or incremental, including just the data that changed from the previous backup.
 
-* *Backup Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Datica Add-ons and as an option for PaaS Customers.
+* *Backup Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered to all Datica Platform Customers.
 
 * *Breach*: Means the acquisition, access, use, or disclosure of protected health information (PHI) in a manner not permitted under the Privacy Rule which compromises the security or privacy of the PHI. For purpose of this definition, "compromises the security or privacy of the PHI" means poses a significant risk of financial, reputational, or other harm to the individual. A use or disclosure of PHI that does not include the identifiers listed at §164.514(e)(2), limited data set, date of birth, and zip code does not compromise the security or privacy of the PHI. Breach excludes:
 
@@ -32,7 +32,7 @@
 
 * *Disaster Recovery*: The ability to recover a system and data after being made unavailable.
 
-* *Disaster Recovery Service*: A disaster recovery service for disaster recovery in the case of system unavailability. This includes both the technical and the non-technical (process) required to effectively stand up an application after an outage. Offered with all Datica Add-ons and as an option for PaaS Customers.
+* *Disaster Recovery Service*: A disaster recovery service for disaster recovery in the case of system unavailability. This includes both the technical and the non-technical (process) required to effectively stand up an application after an outage. Offered with all Datica Add-ons and as an option for Platform Customers.
 
 * *Disclosure*: Disclosure means the release, transfer, provision of, access to, or divulging in any other manner of information outside the entity holding the information.
 
@@ -63,11 +63,11 @@
 
 * *Intrusion Detection System (IDS)*: A software tool use to automatically detect and notify in the event of possible unauthorized network and/or system access.
 
-* *IDS Service*: An Intrusion Detection Service for providing IDS notification to customers in the case of suspicious activity. Offered with all Datica Add-ons and as an option for PaaS Customers.
+* *IDS Service*: An Intrusion Detection Service for providing IDS notification to customers in the case of suspicious activity. Offered with all Datica Add-ons and as an option for Platform Customers.
 
 * *Law Enforcement Official*: Any officer or employee of an agency or authority of the United States, a State, a territory, a political subdivision of a State or territory, or an Indian tribe, who is empowered by law to investigate or conduct an official inquiry into a potential violation of law; or prosecute or otherwise conduct a criminal, civil, or administrative proceeding arising from an alleged violation of law.
 
-* *Logging Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Datica Add-ons and as an option for PaaS Customers.
+* *Logging Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered to all Datica Platform Customers.
 
 * *Messaging*: API-based services to deliver and receive SMS messages.
 

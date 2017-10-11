@@ -34,7 +34,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
 ## 17.5 Patch Management
 
 1. Software patches and updates will be applied to all systems in a timely manner. In the case of routine updates, they will be applied after thorough testing. In the case of updates to correct known vulnerabilities, priority will be given to testing to speed the time to production. Critical security patches are applied within 30 days from testing and all security patches are applied within 90 days after testing.
-    * In the case of PaaS Customers, updates to Application and Database versions are the responsibility of Customers, though Datica will, at it's own discretion, notify and recommend updates to Customer systems.
+    * In the case of Platform Customers, updates to Application and Database versions are the responsibility of Customers, though Datica will, at it's own discretion, notify and recommend updates to Customer systems.
 2. Administrators subscribe to mailing lists to assure up to date on current version of all Datica managed software on Production Systems.
 
 ## 17.6 Intrusion Detection and Vulnerability Scanning

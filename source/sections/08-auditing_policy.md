@@ -10,7 +10,7 @@ It is the policy of Datica to safeguard the confidentiality, integrity, and avai
 * Improper alteration or destruction of ePHI;
 * Out of date software and/or software known to have vulnerabilities.
 
-This policy applies to all Datica Add-on systems, including BaaS, that store, transmit, or process ePHI. This policy, and associated procedures, do not apply to PaaS Customers that do not choose Datica Logging Service.
+This policy applies to all Datica Add-on systems, including BaaS, that store, transmit, or process ePHI. This policy, and associated procedures, do not apply to Platform Customers that do not have Datica Logging Service(s).
 
 ## 8.1 Applicable Standards
 
@@ -41,7 +41,7 @@ This policy applies to all Datica Add-on systems, including BaaS, that store, tr
    * Assign the task of reviewing the audit reports to the workforce member responsible for the application, system, or network, the Privacy Officer, or any other individual determined to be appropriate for the task;
    * Organize and provide oversight to a team structure charged with audit compliance activities (e.g., parameters, frequency, sample sizes, report formats, evaluation, follow-up, etc.).
    * All connections to Datica are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on an annual basis.
-2. Datica's auditing processes shall address access and activity at the following levels listed below. In the case of PaaS Customers, Application and User level auditing is the responsibility of the Customer; Datica provides software to aggregate and view User and Application logs, but the log data collected is the responsibility of the PaaS Customer. Auditing processes may address date and time of each log-on attempt, date and time of each log-off attempt, devices used, functions performed, etc.
+2. Datica's auditing processes shall address access and activity at the following levels listed below. In the case of Platform Customers, Application and User level auditing is the responsibility of the Customer; Datica provides software to aggregate and view User and Application logs, but the log data collected is the responsibility of the Platform Customer. Auditing processes may address date and time of each log-on attempt, date and time of each log-off attempt, devices used, functions performed, etc.
    * User: User level audit trails generally monitor and log all commands directly initiated by the user, all identification and authentication attempts, and data and services accessed.
    * Application: Application level audit trails generally monitor and log all user activities, including data accessed and modified and specific actions.
    * System: System level audit trails generally monitor and log user activities, applications accessed, and other system defined specific actions. Datica utilizes file system monitoring from OSSEC to assure the integrity of file system data.
@@ -107,12 +107,12 @@ This policy applies to all Datica Add-on systems, including BaaS, that store, tr
 3. Audit logs shall be stored on a separate system to minimize the impact auditing may have on the privacy system and to prevent access to audit trails by those with system administrator privileges.
    * Separate systems are used to apply the security principle of "separation of duties" to protect audit trails from hackers.
    * Datica logging servers include Elasticsearch, Logstash, and Kibana (ELK) as part of their baseline configuration to ease reviewing of audit log data. The ELK toolkit provides message summarization, reduction, and reporting functionality.
-4. For PaaS Customers choosing to use Datica logging services, log data will be separated from the log data of other Datica Customers.
+4. For Platform Customers using Datica logging services, log data will be separated from the log data of other Datica Customers.
 
 ## 8.7 Workforce Training, Education, Awareness and Responsibilities
 
 1. Datica workforce members are provided training, education, and awareness on safeguarding the privacy and security of business and ePHI. Datica's commitment to auditing access and activity of the information applications, systems, and networks is communicated through new employee orientation, ongoing training opportunities and events, and applicable policies. Datica workforce members are made aware of responsibilities with regard to privacy and security of information as well as applicable sanctions/corrective disciplinary actions should the auditing process detect a workforce member's failure to comply with organizational policies.
-2. Datica Customers are provided with necessary information to understand Datica auditing capabilities, and PaaS Customers can choose the level of logging and auditing that Datica will implement on their behalf.
+2. Datica Customers are provided with necessary information to understand Datica auditing capabilities, and Platform Customers can choose the level of logging and auditing that Datica will implement on their behalf.
 
 ## 8.8 External Audits of Information Access and Activity
 

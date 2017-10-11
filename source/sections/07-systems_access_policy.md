@@ -183,9 +183,9 @@ The password-reset email inbox is used to track and store password reset request
    * On production Windows bastions, local drive mappings are disabled by Group Policy settings.
    * Configuration settings for enforcing these technical controls are managed by Datica's configuration management tooling, Chef/Salt.
 
-## 7.14 PaaS Customer Access to Systems
+## 7.14 Platform Customer Access to Systems
 
-Datica grants PaaS customer secure system access via VPN connections. This access is only to Customer-specific systems, no other systems in the environment. These connections are setup at customer deployment. These connections are secured and encrypted and the only method for customers to connect to Datica hosted systems.
+Datica grants Platform customer secure system access via VPN connections. This access is only to Customer-specific systems, no other systems in the environment. These connections are setup at customer deployment. These connections are secured and encrypted and the only method for customers to connect to Datica hosted systems.
 
 In the case of data migration, Datica does, on a case by case basis, support customers in importing data. In these cases Datica requires that all data is secured and encrypted in transit, such as by using SFTP or SCP for transferring files.
 

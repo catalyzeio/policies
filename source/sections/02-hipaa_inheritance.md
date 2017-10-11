@@ -1,6 +1,6 @@
 # 2. HIPAA Inheritance
 
-## 2.1 HIPAA Inheritance for PaaS Customers
+## 2.1 HIPAA Inheritance for Platform Customers
 
 | **Administrative Controls** HIPAA Rule | Datica Control | Inherited
 --- | --- | ---
