@@ -107,7 +107,7 @@ This policy applies to all Datica Add-on systems, including BaaS, that store, tr
 3. Audit logs shall be stored on a separate system to minimize the impact auditing may have on the privacy system and to prevent access to audit trails by those with system administrator privileges.
    * Separate systems are used to apply the security principle of "separation of duties" to protect audit trails from hackers.
    * Datica logging servers include Elasticsearch, Logstash, and Kibana (ELK) as part of their baseline configuration to ease reviewing of audit log data. The ELK toolkit provides message summarization, reduction, and reporting functionality.
-4. For Platform Customers using Datica logging services, log data will be separated from the log data of other Datica Customers.
+4. Log data will be separated from the log data of other Datica Customers.
 
 ## 8.7 Workforce Training, Education, Awareness and Responsibilities
 

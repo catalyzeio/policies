@@ -8,7 +8,7 @@ Datica provides secure and compliant cloud-based software. This hosted software 
 
 Platform Customers utilize hosted software and infrastructure from Datica to deploy, host, and scale custom developed applications and configured databases. These customers are deployed into compliant containers run on systems secured and managed by Datica. Datica does not have insight or access into application level data of Platform Customers and, as such, does not have the ability to secure or manage risk associated with application level vulnerabilities and security weaknesses. Datica makes every effort to reduce the risk of unauthorized disclosure, access, and/or breach of Platform Customer data through network (firewalls, dedicated IP spaces, etc) and server settings (encryption at rest and in transit, OSSEC throughout the Platform, etc).
 
-Platform Customers will receive various Services from Datica, which include Backup Service, Logging Service, IDS Service, and Disaster Recovery Service. These services are standard and Platform Customers must sign utilize them in order for Datica to manage these areas of security and compliance.
+Platform Customers will receive various services from Datica, which include Backups, Logging, IDS, and Disaster Recovery. These services are standard and Platform Customers must utilize them in order to maintain compliance.
 
 ## 1.2 Platform Add-ons
 
@@ -34,7 +34,7 @@ The physical infrastructure environment is hosted at [Rackspace](https://www.rac
 
 Within the Datica Platform on Rackspace, AWS, Azure, and SoftLayer, all data transmission is encrypted and all hard drives are encrypted so data at rest is also encrypted; this applies to all servers - those hosting Docker containers, databases, APIs, log servers, etc. Datica assumes all data *may* contain ePHI, even though our Risk Assessment does not indicate this is the case, and provides appropriate protections based on that assumption.
 
-In the case of Platform Customers, it is the responsibility of the Customer to restrict, secure, and assure the privacy of all ePHI data at the Application Level, as this is not under the control or purview of Datica.
+In the case of Platform Customers, it is the responsibility of the Customer to restrict, secure, and assure the privacy of all ePHI data at the Application Layer, as this is not under the control or purview of Datica.
 
 The data and network segmentation mechanism differs depending on the primitives offered by the underlying cloud provider infrastructure:
 
