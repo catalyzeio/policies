@@ -1,6 +1,6 @@
 # 3. Policy Management Policy
 
-Datica implements policies and procedures to maintain compliance and integrity of data. The Security Officer and Privacy Officer are responsible for maintaining policies and procedures and assuring all Datica workforce members, business associates, customers, and partners are adherent to all applicable policies. Previous versions of policies are retained to assure ease of finding policies at specific historic dates in time.
+Luma implements policies and procedures to maintain compliance and integrity of data. The Security Officer and Privacy Officer are responsible for maintaining policies and procedures and assuring all Luma workforce members, business associates, customers, and partners are adherent to all applicable policies. Previous versions of policies are retained to assure ease of finding policies at specific historic dates in time.
 
 ## 3.1 Applicable Standards
 
@@ -15,32 +15,30 @@ Datica implements policies and procedures to maintain compliance and integrity o
 
 ## 3.2 Maintenance of Policies
 
-1. All policies are stored and up to date to maintain Datica compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control are done similar to source code control.
+1. All policies are stored and up to date to maintain Luma compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control are done similar to source code control.
 2. Policy update requests can be made by any workforce member at any time. Furthermore, all policies are reviewed annually by both the Security and Privacy Officer to assure they are accurate and up-to-date.
-3. Datica employees may request changes to policies using the following process:
-  1. The Datica employee initiates a policy change request by creating an Issue in the JIRA Compliance Review Activity (CRA) project. The change request may optionally include a GitHub pull request from a separate branch or repository containing the desired changes.
+3.  Luma employees may request changes to policies using the following process:
+  1. The Luma employee initiates a policy change request by creating an Issue in the Asana. The change request may optionally include a GitHub pull request from a separate branch or repository containing the desired changes.
   2. The Security Officer or the Privacy Officer is assigned to review the policy change request.
   3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   4. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
-  5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using Datica's [change management process (§9.4)](#9.4-changing-existing-systems).
-4. All policies are made accessible to all Datica workforce members. The current master policies are published at [https://policy.datica.com](https://policy.datica.com).
-   * Changes are automatically communicated to all Datica team members through integrations between GitHub and Slack that log all GitHub policy channels to a dedicated Datica Slack Channel.
-   * The Security Officer also communicates policy changes to all employees via email. These emails include a high-level description of the policy change using terminology appropriate for the target audience.
+  5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using Luma's [change management process (§9.4)](#9.4-changing-existing-systems).
+4. All policies are made accessible to all Luma workforce members.
+   * Changes are communicated to all Luma team members through Slack.
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later
-   1. Version history of all Datica policies is done via GitHub.
-   2. Backup storage of all policies is done with Box.
-6. The policies and information security policies are reviewed and audited annually, or after significant changes occur to Datica's organizational environment. Issues that come up as part of this process are reviewed by Datica management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
-  1. The Security Officer initiates the policy review by creating an Issue in the JIRA Compliance Review Activity (CRA) project.
-  2. The Security Officer or the Privacy Officer is assigned to review the current Datica policies ([https://policy.datica.com/](https://policy.datica.com/)).
+   1. Version history of all Luma policies is done via GitHub.
+6.  The policies and information security policies are reviewed and audited annually, or after significant changes occur to Luma's organizational environment. Issues that come up as part of this process are reviewed by Luma management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
+  1. The Security Officer initiates the policy review by creating an Issue in the Asana.
+  2. The Security Officer or the Privacy Officer is assigned to review the current Luma policies.
   3. If changes are made, the above process is used. All changes are documented in the Issue.
   4. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
   6. Policy review is monitored on a quarterly basis using JIRA reporting to assess compliance with above policy.
-7. Datica utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Datica also tracks compliance with HIPAA and publishes results at [https://hipaa.datica.com](https://hipaa.datica.com). In order to track and measure adherence on an annual basis, Datica uses the following process to track HITRUST audits, both full and interim:
-  1. The Security Officer initiates the HITRUST audit activity by creating an Issue in the JIRA Compliance Review Activity (CRA) project.
+7. Luma utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Luma also tracks compliance with HIPAA. In order to track and measure adherence on an annual basis, Luma uses the following process to track HITRUST audits, both full and interim:
+  1. The Security Officer initiates the HITRUST audit activity by creating an Issue in Asana.
   2. The Security Officer or the Privacy Officer is assigned to own and manage the HITRUST activity.
   3. Once the HITRUST activity is completed, the Security Officer approves or rejects the Issue.
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-  6. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using JIRA reporting to assess compliance with above policy.
+  6. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
 
 Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5.3-security-officer).

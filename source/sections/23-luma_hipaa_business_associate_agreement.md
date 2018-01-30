@@ -1,4 +1,4 @@
-# 23. Datica HIPAA Business Associate Agreement ("BAA")
+# 23. Luma HIPAA Business Associate Agreement ("BAA")
 
 This HIPAA Business Associate Agreement (this "BAA") defines the rights and responsibilities of Provider and Customer with respect to Protected Health Information ("PHI") as defined in the Health Insurance Portability and Accountability Act of 1996 and the regulations promulgated thereunder, including the HITECH Act and Omnibus Rule, as each may be amended from time to time (collectively, "HIPAA"). This BAA shall be applicable only in the event and to the extent Provider meets, with respect to Customer, the definition of a Business Associate set forth at 45 C.F.R. §160.103, or applicable successor provisions. This BAA shall only be applicable to Customer's Hosting Services or Services to the extent that Customer uses the Hosting Services for Customer's Applications and as specified in the Platform as a Service Agreement of which this Exhibit C is attached and fully referenced and incorporated herein (the "PaaS Agreement"). This BAA is intended to ensure that Business Associate and Customer will establish and implement appropriate safeguards where Business Associate may receive, create, maintain, use or disclose in connection with the functions, activities and services that Business Associate performs on behalf of Customer solely to perform its duties and responsibilities under the PaaS Agreement.
 
@@ -6,7 +6,7 @@ This HIPAA Business Associate Agreement (this "BAA") defines the rights and resp
    1. Customer uses the Hosting Services to store or transmit any PHI as defined in 45 C.F.R. §160.103
    2. Customer has applied the required security configurations, as specified in Section 5.2 of this BAA to Customer's Applications. Customer acknowledges that this BAA does not apply to any other accounts it may have now or in the future. Unless otherwise expressly defined in this BAA, all capitalized terms in this BAA will have the meanings set forth in the PaaS Agreement or in HIPAA.
 2. Additional Meanings.
-   * "Business Associate" shall mean Provider, or Datica Health, Inc.
+   * "Business Associate" shall mean Provider, or Luma Health, Inc.
    * "HITECH ACT" shall mean the Health Information Technology for Economic and Clinical Health Act.
    * "Individual" shall have the same meaning as the term "individual" in 45 CFR § 160.103 and shall include a person who qualifies as a personal representative in accordance with 45 CFR § 164.502(g).
    * "Privacy Rule" shall mean the Standards for Privacy of Individually Identifiable Health Information at 45 CFR part 160 and part 164, subparts A and E.
