@@ -100,10 +100,8 @@ The notification sequence is listed below:
 * The first responder is to notify the CTO. All known information must be relayed to the CTO.
 * The Senior AWS Engineer is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
 * The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to following the steps below.
-  * Damage Assessment Procedures:
-  * The CTO and Senior AWS Engineer are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
-  * Alternate Assessment Procedures:
-  * Upon notification from the CTO, the Senior AWS Engineer is to follow the procedures for damage assessment with combined Ops and Web Services Teams.
+  * Damage Assessment Procedures: The CTO and Senior AWS Engineer are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
+  * Alternate Assessment Procedures: Upon notification from the CTO, the Senior AWS Engineer is to follow the procedures for damage assessment with combined Ops and Web Services Teams.
 * The Cloudticity Contingency Plan is to be activated if one or more of the following criteria are met:
   * Cloudticity will be unavailable for more than 48 hours.
   * Hosting facility is damaged and will be unavailable for more than 24 hours.
@@ -145,4 +143,4 @@ This section discusses activities necessary for restoring Cloudticity operations
    * Assure systems are appropriately patched and up to date. - Ops Team
    * Update DNS to new environment. - Ops Team
 2. Plan Deactivation
-   * If the Cloudticity environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the [Cloudticity Disposal Media Policy](14-disposable_media_policy.md).
+   * If the Cloudticity environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the [Cloudticity Disposable Media Policy](14-disposable_media_policy.md).
