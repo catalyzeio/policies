@@ -1,6 +1,6 @@
-# Datica HIPAA Compliance Policies
+# WatchTower HIPAA Compliance Policies
 
-HIPAA compliance is complicated, but it doesn't have to be. Datica helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
+HIPAA compliance is complicated, but it doesn't have to be. WatchTower helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
 
 In an effort to make compliance as easy as possible for companies working with protected health information (PHI), we decided to open source our company policies.
 
@@ -10,7 +10,7 @@ Do you handle PHI and not yet have your own company policies in place? Then you'
 
 ## Why did we open source these policies?
 
-HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Datica builds its platform with these guidelines in mind.
+HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. WatchTower builds its platform with these guidelines in mind.
 
 The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), and managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
 
@@ -23,16 +23,16 @@ By open sourcing our own company policies, we hope other companies who handle PH
 As a company who handles PHI, it's critical you maintain and publish your own policies. To make use of our policies, we recommend the following steps.
 
 1. Read through all the enclosed policies to get an understanding to the structure.
-2. When ready, download the policies and comb through for mentions of Datica or our business and change to appropriate references to your company.
-3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.datica.com).
+2. When ready, download the policies and comb through for mentions of WatchTower or our business and change to appropriate references to your company.
+3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.WatchTower.com).
 
 ## Who is behind this?
 
-[Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
+[WatchTower](htts://WatchTower.com), healthcare's trusted HITRUST CSF Certified digital health platform.
 
-We help companies who handle PHI, both business associates and covered entities, maintain compliance with our ([Compliant Cloud](https://datica.com/compliant-cloud)) and ([Managed Integration](https://datica.com)).
+We help companies who handle PHI, both business associates and covered entities, maintain compliance with our ([Compliant Cloud](https://WatchTower.com/compliant-cloud)) and ([Managed Integration](https://WatchTower.com)).
 
-To get in touch, shoot us an email at [hello@datica.com](mailto:hello@datica.com). We'd love to hear from you!
+To get in touch, shoot us an email at [hello@WatchTower.com](mailto:hello@WatchTower.com). We'd love to hear from you!
 
 ### License
 
@@ -64,5 +64,5 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 * [Approved Tools Policy](source/sections/20-approved_tools_policy.md)
 * [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 * [Key Definitions](source/sections/22-key_definitions.md)
-* [Datica HIPAA Business Associate Agreement (“BAA”)](source/sections/23-datica_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Datica Controls](source/sections/24-hipaa_mapping_to_datica_controls.md)
+* [WatchTower HIPAA Business Associate Agreement (“BAA”)](source/sections/23-WatchTower_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to WatchTower Controls](source/sections/24-hipaa_mapping_to_WatchTower_controls.md)

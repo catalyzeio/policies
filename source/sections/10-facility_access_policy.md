@@ -1,8 +1,8 @@
 # 10. Facility Access Policy
 
-Datica works with Subcontractors to assure restriction of physical access to systems used as part of the Datica Platform. Datica and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Datica workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Datica facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Datica's facility.
+WatchTower works with Subcontractors to assure restriction of physical access to systems used as part of the WatchTower Platform. WatchTower and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which WatchTower workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of WatchTower facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to WatchTower's facility.
 
-Of note, Datica does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. Datica does not physically house any systems used by its Platform in Datica facilities. Physical security of our Platform servers is outlined [in §1.4](#1.4-datica-organizational-concepts).
+Of note, WatchTower does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. WatchTower does not physically house any systems used by its Platform in WatchTower facilities. Physical security of our Platform servers is outlined [in §1.4](#1.4-WatchTower-organizational-concepts).
 
 ## 10.1 Applicable Standards
 
@@ -20,7 +20,7 @@ Of note, Datica does not have ready access to ePHI, it provides cloud-based, com
 * 164.310(a)(2)(iii) Access Control & Validation Procedures
 * 164.310(b-c) Workstation Use & Security
 
-## 10.2 Datica-controlled Facility Access Policies
+## 10.2 WatchTower-controlled Facility Access Policies
 
 1. Visitor and third party support access is recorded and supervised. All visitors are escorted.
 2. Repairs are documented and the documentation is retained.
@@ -37,8 +37,8 @@ Of note, Datica does not have ready access to ePHI, it provides cloud-based, com
 8. Enforcement of Facility Access Policies
    * Report violations of this policy to the restricted area's department team leader, supervisor, manager, or director, or the Privacy Officer.
    * Workforce members in violation of this policy are subject to disciplinary action, up to and including termination.
-   * Visitors in violation of this policy are subject to loss of vendor privileges and/or termination of services from Datica.
+   * Visitors in violation of this policy are subject to loss of vendor privileges and/or termination of services from WatchTower.
 9. Workstation Security
    * Workstations may only be accessed and utilized by authorized workforce members to complete assigned job/contract responsibilities.
    * All workforce members are required to monitor workstations and report unauthorized users and/or unauthorized attempts to access systems/applications as per the System Access Policy.
-   * All workstations purchased by Datica are the property of Datica and are distributed to users by the company.
+   * All workstations purchased by WatchTower are the property of WatchTower and are distributed to users by the company.
