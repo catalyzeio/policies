@@ -43,7 +43,6 @@ All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licens
 Each policy is included as its own markdown file in case you want to cherry-pick specific policies. If you currently have no policies in place, we encourage you to consider utilizing all compliance policies.
 
 * [Introduction](source/sections/01-introduction.md)
-* [HIPAA Inheritance](source/sections/02-hipaa_inheritance.md)
 * [Policy Management Policy](source/sections/03-policy_management_policy.md)
 * [Risk Management Policy](source/sections/04-risk_management_policy.md)
 * [Roles Policy](source/sections/05-roles_policy.md)
