@@ -1,26 +1,19 @@
-# 10. Facility Access Policy
+# 09. Facility Access Policy
 
 WatchTower works with Subcontractors to assure restriction of physical access to systems used as part of the WatchTower Platform. WatchTower and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which WatchTower workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of WatchTower facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to WatchTower's facility.
 
 Of note, WatchTower does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. WatchTower does not physically house any systems used by its Platform in WatchTower facilities. Physical security of our Platform servers is outlined [in §1.4](#1.4-WatchTower-organizational-concepts).
 
-## 10.1 Applicable Standards
+## 09.1 Applicable Standards
 
-### 10.1.1 Applicable Standards from the HITRUST Common Security Framework
 
-* 08.b - Physical Entry Controls
-* 08.d - Protecting Against External and Environmental Threats
-* 08.j - Equipment Maintenance
-* 08.l - Secure Disposal or Re-Use of Equipment
-* 09.p - Disposal of Media
-
-### 10.1.2 Applicable Standards from the HIPAA Security Rule
+### 09.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.310(a)(2)(ii) Facility Security Plan
 * 164.310(a)(2)(iii) Access Control & Validation Procedures
 * 164.310(b-c) Workstation Use & Security
 
-## 10.2 WatchTower-controlled Facility Access Policies
+## 09.2 WatchTower-controlled Facility Access Policies
 
 1. Visitor and third party support access is recorded and supervised. All visitors are escorted.
 2. Repairs are documented and the documentation is retained.
