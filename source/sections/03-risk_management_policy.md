@@ -4,7 +4,7 @@ This policy establishes the scope, objectives, and procedures of WatchTower's in
 
 ## 3.1 Applicable Standards
 
-### 3.1.2 Applicable Standards from the HIPAA Security Rule
+### 3.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(1)(ii)(A) - HIPAA Security Rule Risk Analysis
 * 164.308(a)(1)(ii)(B) - HIPAA Security Rule Risk Management
@@ -12,7 +12,7 @@ This policy establishes the scope, objectives, and procedures of WatchTower's in
 
 ## 3.2 Risk Management Policies
 
-1. It is the policy of WatchTower to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the WatchTower's information security program.
+1. It is the policy of WatchTower to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and Partners, and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the WatchTower's information security program.
 2. Risk analysis and risk management are recognized as important components of WatchTower's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles:
    2. Before the integration of new system technologies and before changes are made to WatchTower physical safeguards; and
@@ -24,16 +24,16 @@ This policy establishes the scope, objectives, and procedures of WatchTower's in
    2. Protect against any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
    3. Protect against any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required; and
    4. Ensure compliance by all workforce members.
-4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and WatchTower's Security Officer.
+4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and WatchTower's Security and Privacy Officer.
 5. All WatchTower workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the WatchTower Roles Policy.
-6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of WatchTower's Security Officer (or other designated employee), and the identified Risk Management Team.
+6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of WatchTower's Security and Privacy Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
 8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
-  1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the WatchTower Quality Manageement System.
-  2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
-  3. All findings are documented in an approved spreadsheet that is linked to the Issue.
-  4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-  5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
+   1. The Security and Privacy Officer initiates the Risk Management Procedures by creating an Issue in the WatchTower Quality Manageement System.
+   2. The Security and Privacy Officer is assigned to carry out the Risk Management Procedures.
+   3. All findings are documented in an approved spreadsheet that is linked to the Issue.
+   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security and Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+   5. If the review is approved, the Security and Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
 9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Manageement System reporting to assess compliance with above policy.
 
 ## 3.3 Risk Management Procedures
@@ -129,7 +129,7 @@ The two principle components of the risk management process - risk assessment an
 
 * Scheduled Basis - an overall risk assessment of WatchTower's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
-* As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect WatchTower's Platform.
+* As Needed - the Security and Privacy Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect WatchTower's Platform.
 
 ## 3.4 Process Documentation
 
