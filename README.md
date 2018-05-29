@@ -46,7 +46,7 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 * [Policy Management Policy](source/sections/02-policy_management_policy.md)
 * [Risk Management Policy](source/sections/03-risk_management_policy.md)
 * [Roles Policy](source/sections/04-roles_policy.md)
-* [Data Management Policy](source/sections/06-data_management_policy.md)
+* [Data Management Policy](source/sections/05-data_management_policy.md)
 * [System Access Policy](source/sections/07-systems_access_policy.md)
 * [Auditing Policy](source/sections/08-auditing_policy.md)
 * [Configuration Management Policy](source/sections/09-configuration_management_policy.md)

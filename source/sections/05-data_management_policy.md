@@ -1,6 +1,6 @@
 # 5. Data Management Policy
 
-WatchTower has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with WatchTower Add-ons and for PaaS Customers utilizing our Backup Service. This policy, and associated procedures for testing and restoring from backup data, do not apply to PaaS Customers that do not choose WatchTower Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by WatchTower.
+WatchTower has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI). The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by WatchTower.
 
 Data backup is an important part of the day-to-day operations of WatchTower. To protect the confidentiality, integrity, and availability of ePHI, both for WatchTower and WatchTower Customers, complete backups are done daily to assure that data remains available when it needed and in case of a disaster.
 
@@ -8,7 +8,7 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## 5.1 Applicable Standards
 
-### 5.1.2 Applicable Standards from the HIPAA Security Rule
+### 5.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(7)(ii)(A) - Data Backup Plan
 * 164.310(d)(2)(iii) - Accountability
@@ -16,9 +16,9 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## 5.2 Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for WatchTower Customers, including PaaS Customers that utilize the WatchTower Backup Service.
-2. The WatchTower Ops Team is designated to be in charge of backups.
-3. Dev Ops Team members are trained and assigned to complete backups and manage the backup media.
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for WatchTower Customers and Partners.
+2. The WatchTower Development Team is designated to be in charge of backups.
+3. Dev Team members are trained and assigned to complete backups and manage the backup media.
 4. Document backups
    * Name of the system
    * Date & time of backup
