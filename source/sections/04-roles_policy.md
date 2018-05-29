@@ -1,22 +1,15 @@
-# 5. Roles Policy
+# 4. Roles Policy
 
-WatchTower has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+WatchTower has a Security and Privacy Officer [164.308(a)(2)] [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with this role are outlined below.
 
-## 5.1 Applicable Standards
+## 4.1 Applicable Standards
 
-### 5.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 02.f - Disciplinary Process
-* 06.d - Data Protection and Privacy of Covered Information
-* 06.f - Prevention of Misuse of Information Assets
-* 06.g - Compliance with Security Policies and Standards
-
-### 5.1.2 Applicable Standards from the HIPAA Security Rule
+### 4.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(2) - Assigned Security Responsibility
 * 164.308(a)(5)(i) - Security Awareness and Training
 
-## 5.2 Privacy Officer
+## 4.2 Privacy Officer
 
 The Privacy Officer is responsible for assisting with compliance and security training for workforce members, assuring organization remains in compliance with evolving compliance rules, and helping the Security Officer in his responsibilities.
 
@@ -27,7 +20,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 
 The current WatchTower Privacy Officer is Travis Good ([travis@WatchTower.com](mailto:travis@WatchTower.com)).
 
-### 5.2.1 Workforce Training Responsibilities
+### 4.2.1 Workforce Training Responsibilities
 
 1. The Privacy Officer facilitates the training of all workforce members as follows:
    1. New workforce members within their first month of employment;
@@ -60,13 +53,13 @@ The current WatchTower Privacy Officer is Travis Good ([travis@WatchTower.com](m
    22. Procedures to re-use electronic media containing ePHI;
    23. SSH key and sensitive document encryption procedures.
 
-## 5.3 Security Officer
+## 4.3 Security Officer
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of WatchTower security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
 The current WatchTower Security Officer is Christopher Gerg ([chris.gerg@WatchTower.com](mailto:chris@WatchTower.com)).
 
-### 5.3.1 Organizational Responsibilities
+### 4.3.1 Organizational Responsibilities
 
 The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to WatchTower's efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI. The Security Officer is appointed by and reports to the Board of Directors and the CEO.
 
@@ -106,7 +99,7 @@ These organizational responsibilities include, but are not limited to the follow
       * The Security Officer works with the COO to forecast spending needs based on the previous year's level, along with changes for the upcoming year such as additional staff hires.
       * During the year, if an unforeseen security-related expense arises that was not in the budget forecast, the Security Officer works with the COO to reallocate any resources as necessary to cover this expense.
 
-### 5.3.2 Supervision of Workforce Responsibilities
+### 4.3.2 Supervision of Workforce Responsibilities
 
 Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of WatchTower's systems, applications, servers, workstations, etc. that contain ePHI.
 
@@ -114,7 +107,7 @@ Although the Security Officer is responsible for implementing and overseeing all
 2. Assist the Security and Privacy Officers to ensure appropriate role-based access is provided to all users.
 3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulation and WatchTower's security policies and procedures.
 
-### 5.3.3 Sanctions of Workforce Responsibilities
+### 4.3.3 Sanctions of Workforce Responsibilities
 
 All workforce members report non-compliance of WatchTower's policies and procedures to the Security Officer or other individual as assigned by the Security Officer. Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
 
