@@ -1,56 +1,50 @@
-# 4. Risk Management Policy
+# 3. Risk Management Policy
 
-This policy establishes the scope, objectives, and procedures of Datica's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.
+This policy establishes the scope, objectives, and procedures of WatchTower's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.
 
-## 4.1 Applicable Standards
+## 3.1 Applicable Standards
 
-### 4.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 03.a - Risk Management Program Development
-* 03.b - Performing Risk Assessments
-* 03.c - Risk Mitigation
-
-### 4.1.2 Applicable Standards from the HIPAA Security Rule
+### 3.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(1)(ii)(A) - HIPAA Security Rule Risk Analysis
 * 164.308(a)(1)(ii)(B) - HIPAA Security Rule Risk Management
 * 164.308(a)(8) - HIPAA Security Rule Evaluation
 
-## 4.2 Risk Management Policies
+## 3.2 Risk Management Policies
 
-1. It is the policy of Datica to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Datica's information security program.
-2. Risk analysis and risk management are recognized as important components of Datica's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
+1. It is the policy of WatchTower to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and Partners, and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the WatchTower's information security program.
+2. Risk analysis and risk management are recognized as important components of WatchTower's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles:
-   2. Before the integration of new system technologies and before changes are made to Datica physical safeguards; and
-      * These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the Datica Platform.
-   3. While making changes to Datica physical equipment and facilities that introduce new, untested configurations.
-   4. Datica performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
-3. Datica implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
-   1. Ensure the confidentiality, integrity, and availability of all ePHI Datica receives, maintains, processes, and/or transmits for its Customers;
+   2. Before the integration of new system technologies and before changes are made to WatchTower physical safeguards; and
+      * These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the WatchTower Platform.
+   3. While making changes to WatchTower physical equipment and facilities that introduce new, untested configurations.
+   4. WatchTower performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
+3. WatchTower implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
+   1. Ensure the confidentiality, integrity, and availability of all ePHI WatchTower receives, maintains, processes, and/or transmits for its Customers;
    2. Protect against any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
    3. Protect against any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required; and
    4. Ensure compliance by all workforce members.
-4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Datica's Security Officer.
-5. All Datica workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Datica Roles Policy.
-6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Datica's Security Officer (or other designated employee), and the identified Risk Management Team.
+4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and WatchTower's Security and Privacy Officer.
+5. All WatchTower workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the WatchTower Roles Policy.
+6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of WatchTower's Security and Privacy Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
 8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
-  1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the Datica Quality Manageement System.
-  2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
-  3. All findings are documented in an approved spreadsheet that is linked to the Issue.
-  4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-  5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Manageement System reporting to assess compliance with above policy.
+   1. The Security and Privacy Officer initiates the Risk Management Procedures by creating an Issue in the WatchTower Project Management System.
+   2. The Security and Privacy Officer is assigned to carry out the Risk Management Procedures.
+   3. All findings are documented in an approved spreadsheet that is linked to the Issue.
+   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security and Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+   5. If the review is approved, the Security and Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
+9. The Risk Management Procedure is monitored on a quarterly basis using the Project Management System reporting to assess compliance with above policy.
 
-## 4.3 Risk Management Procedures
+## 3.3 Risk Management Procedures
 
-### 4.3.1 Risk Assessment
+### 3.3.1 Risk Assessment
 
 The intent of completing a risk assessment is to determine potential threats and vulnerabilities and the likelihood and impact should they occur. The output of this process helps to identify appropriate controls for reducing or eliminating risk.
 
 * Step 1. System Characterization
-  * The first step in assessing risk is to define the scope of the effort. To do this, identify where ePHI is received, maintained, processed, or transmitted. Using information-gathering techniques, the Datica Platform boundaries are identified.
-  * Output - Characterization of the Datica Platform system assessed, a good picture of the Platform environment, and delineation of Platform boundaries.
+  * The first step in assessing risk is to define the scope of the effort. To do this, identify where ePHI is received, maintained, processed, or transmitted. Using information-gathering techniques, the WatchTower Platform boundaries are identified.
+  * Output - Characterization of the WatchTower Platform system assessed, a good picture of the Platform environment, and delineation of Platform boundaries.
 
 * Step 2. Threat Identification
   * Potential threats (the potential for threat-sources to successfully exercise a particular vulnerability) are identified and documented. All potential threat-sources from historical incidents and data from intelligence agencies, the government, etc., are reviewed to help generate a list of potential threats.
@@ -61,7 +55,7 @@ The intent of completing a risk assessment is to determine potential threats and
   * Output - A list of the Platform vulnerabilities (observations) that could be exercised by potential threat-sources.
 
 * Step 4. Control Analysis
-  * Document and assess the effectiveness of technical and non-technical controls that have been or will be implemented by Datica to minimize or eliminate the likelihood / probability of a threat-source exploiting a Platform vulnerability.
+  * Document and assess the effectiveness of technical and non-technical controls that have been or will be implemented by WatchTower to minimize or eliminate the likelihood / probability of a threat-source exploiting a Platform vulnerability.
   * Output - List of current or planned controls (policies, procedures, training, technical mechanisms, insurance, etc.) used for the Platform to mitigate the likelihood of a vulnerability being exercised and reduce the impact of such an adverse event.
 
 * Step 5. Likelihood Determination
@@ -69,7 +63,7 @@ The intent of completing a risk assessment is to determine potential threats and
   * Output - Likelihood rating of low (.1), medium (.5), or high (1). Refer to the NIST SP 800-30 definitions of low, medium, and high.
 
 * Step 6. Impact Analysis
-  * Determine the level of adverse impact that would result from a threat successfully exploiting a vulnerability. Factors of the data and systems to consider should include the importance to Datica's mission; sensitivity and criticality (value or importance); costs associated; loss of confidentiality, integrity, and availability of systems and data.
+  * Determine the level of adverse impact that would result from a threat successfully exploiting a vulnerability. Factors of the data and systems to consider should include the importance to WatchTower's mission; sensitivity and criticality (value or importance); costs associated; loss of confidentiality, integrity, and availability of systems and data.
   * Output - Magnitude of impact rating of low (10), medium (50), or high (100). Refer to the NIST SP 800-30 definitions of low, medium, and high.
 
 * Step 7. Risk Determination
@@ -84,9 +78,9 @@ The intent of completing a risk assessment is to determine potential threats and
   * Results of the risk assessment are documented in an official report, spreadsheet, or briefing and provided to senior management to make decisions on policy, procedure, budget, and Platform operational and management changes.
   * Output - A risk assessment report that describes the threats and vulnerabilities, measures the risk, and provides recommendations for control implementation.
 
-### 4.3.2 Risk Mitigation
+### 3.3.2 Risk Mitigation
 
-Risk mitigation involves prioritizing, evaluating, and implementing the appropriate risk-reducing controls recommended from the Risk Assessment process to ensure the confidentiality, integrity and availability of Datica Platform ePHI. Determination of appropriate controls to reduce risk is dependent upon the risk tolerance of the organization consistent with its goals and mission.
+Risk mitigation involves prioritizing, evaluating, and implementing the appropriate risk-reducing controls recommended from the Risk Assessment process to ensure the confidentiality, integrity and availability of WatchTower Platform ePHI. Determination of appropriate controls to reduce risk is dependent upon the risk tolerance of the organization consistent with its goals and mission.
 
 * Step 1. Prioritize Actions
   * Using results from Step 7 of the Risk Assessment, sort the threat and vulnerability pairs according to their risk-levels in descending order. This establishes a prioritized list of actions needing to be taken, with the pairs at the top of the list getting/requiring the most immediate attention and top priority in allocating resources
@@ -101,7 +95,7 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
   * Output - Documented cost-benefit analysis of either implementing or not implementing each specific control
 
 * Step 4. Select Control(s)
-  * Taking into account the information and results from previous steps, Datica's mission, and other important criteria, the Risk Management Team determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
+  * Taking into account the information and results from previous steps, WatchTower's mission, and other important criteria, the IT Department determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
   * Output - Selected control(s)
 
 * Step 5. Assign Responsibility
@@ -118,25 +112,25 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
     * Start date for implementation
     * Target date for completion of implementation;
     * Maintenance requirements.
-  * The overall implementation plan provides a broad overview of the safeguard implementation, identifying important milestones and timeframes, resource requirements (staff and other individuals' time, budget, etc.), interrelationships between projects, and any other relevant information. Regular status reporting of the plan, along with key metrics and success indicators should be reported to Datica Senior Management.
+  * The overall implementation plan provides a broad overview of the safeguard implementation, identifying important milestones and timeframes, resource requirements (staff and other individuals' time, budget, etc.), interrelationships between projects, and any other relevant information. Regular status reporting of the plan, along with key metrics and success indicators should be reported to WatchTower Senior Management.
   * Individual project plans for safeguard implementation may be developed and contain detailed steps that resources assigned carry out to meet implementation timeframes and expectations. Additionally, consider including items in individual project plans such as a project scope, a list deliverables, key assumptions, objectives, task completion dates and project requirements.
   * Output - Safeguard Implementation Plan
 
 * Step 7. Implement Selected Controls
   * As controls are implemented, monitor the affected system(s) to verify that the implemented controls continue to meet expectations. Elimination of all risk is not practical. Depending on individual situations, implemented controls may lower a risk level but not completely eliminate the risk.
-  * Continually and consistently communicate expectations to all Risk Management Team members, as well as senior management and other key people throughout the risk mitigation process. Identify when new risks are identified and when controls lower or offset risk rather than eliminate it.
+  * Continually and consistently communicate expectations to all IT Department members, as well as senior management and other key people throughout the risk mitigation process. Identify when new risks are identified and when controls lower or offset risk rather than eliminate it.
   * Additional monitoring is especially crucial during times of major environmental changes, organizational or process changes, or major facilities changes.
   * If risk reduction expectations are not met, then repeat all or a part of the risk management process so that additional controls needed to lower risk to an acceptable level can be identified.
   * Output - Residual Risk documentation
 
-### 4.3.3 Risk Management Schedule
+### 3.3.3 Risk Management Schedule
 
-The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following schedule to ensure the continued adequacy and continuous improvement of Datica's information security program:
+The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following schedule to ensure the continued adequacy and continuous improvement of WatchTower's information security program:
 
-* Scheduled Basis - an overall risk assessment of Datica's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
+* Scheduled Basis - an overall risk assessment of WatchTower's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
-* As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Datica's Platform.
+* As Needed - the Security and Privacy Officer (or other designated employee) or IT Department may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect WatchTower's Platform.
 
-## 4.4 Process Documentation
+## 3.4 Process Documentation
 
 Maintain documentation of all risk assessment, risk management, and risk mitigation efforts for a minimum of six years.
