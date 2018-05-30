@@ -56,7 +56,7 @@ The following teams have been developed and trained to respond to a contingency 
 1. The **Development/Operations Team** is responsible for recovery of the WatchTower hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of WatchTower. The team leader is the CTO and directs the Dev Ops Team.
    1.  This team is also responsible for assuring all application servers, web services, and platform add-ons are working. It is also responsible for testing redeployments and assessing damage to the environment.
 
-Members of the Development/Operations Team must maintain local copies of the contact information from [§13.2](#12.2-line-of-succession). Additionally, the CTO must maintain a local copy of this policy in the event Internet access is not available during a disaster scenario.
+Members of the Development/Operations Team must maintain local copies of the contact information from [§12.2](#12.2-line-of-succession). Additionally, the CTO must maintain a local copy of this policy in the event Internet access is not available during a disaster scenario.
 
 ## 12.4 Testing and Maintenance
 
