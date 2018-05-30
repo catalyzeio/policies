@@ -15,12 +15,12 @@ WatchTower standardizes and automates configuration management through the use o
 3. All changes to production systems, network devices, and firewalls are approved by the WatchTower CTO before they are implemented to assure they comply with business and security requirements.
 4. All changes to production systems are tested before they are implemented in production.
 5. Implementation of approved changes are only performed by authorized personnel.
-7. All frontend functionality (developer dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers or containers.
-8. All software and systems are tested using unit tests and end to end tests.
-9. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development.
-10. WatchTower utilizes development and staging environments that mirror production to assure proper function.
-12. All formal change requests require unique ID and authentication.
-14. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
+6. All frontend functionality (developer dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers or containers.
+7. All software and systems are tested using unit tests and end to end tests.
+8. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development.
+9. WatchTower utilizes development and staging environments that mirror production to assure proper function.
+10. All formal change requests require unique ID and authentication.
+11. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
 
 ## 8.3 Provisioning Production Systems
 
@@ -37,20 +37,15 @@ WatchTower standardizes and automates configuration management through the use o
    * Data volume encryption settings.
    * Intrusion detection and virus scanning software installed.
    * All items listed below in the operating system-specific subsections below.
-7. The new system may be rotated into production once the CTO verifies all the provisioning steps listed above have been correctly followed and has marked the Issue with the `Approved` state.
+6. The new system may be rotated into production once the CTO verifies all the provisioning steps listed above have been correctly followed and has marked the Issue with the `Approved` state.
 
 ## 8.4 Changing Existing Systems
 
 1. Subsequent changes to already-provisioned systems are unconditionally handled by one of the following methods:
-   * Changes to Salt states or pillar values.
-   * Changes to Chef recipes.
-   * For configuration changes that cannot be handled by Chef or Salt, a runbook describing exactly what changes will be made and by whom.
-2. Configuration changes to Chef recipes or Salt states must be initiated by creating a Merge Request in GitLab.
-   * The ops team member will create a feature branch and make their changes on that branch.
-   * The ops team member must test their configuration change locally when possible, or on a development and/or staging sandbox otherwise.
-   * At least one other ops team member must review the Chef or Salt change before merging the change into the main branch.
-3. In all cases, before rolling out the change to production, the ops team member must file an Issue in the DT project describing the change. This Issue must link to the reviewed Merge Request and/or include a link to the runbook.
-4. Once the request has been approved by the CTO, the ops team member may roll out the change into production environments.
+   * Changes to OpsWorks scripts.
+   * For configuration changes that cannot be handled by OpsWorks, documentation describing exactly what changes will be made and by whom.
+2. In all cases, before rolling out the change to production, the ops team member must file an Issue in the Project Management System describing the change.
+3. Once the request has been approved by the CTO, the ops team member may roll out the change into production environments.
 
 ## 8.5 Patch Management Procedures
 
@@ -60,7 +55,6 @@ WatchTower standardizes and automates configuration management through the use o
    * If the development systems function properly after the two-week testing period, the security team will promote that snapshot into the mirror used by all staging systems. These patches will be applied to all staging systems during the next nightly patch run.
    * If the staging systems function properly after the two-week testing period, the security team will promote that snapshot into the mirror used by all production systems. These patches will be applied to all production systems during the next nightly patch run.
    * Patches for critical kernel security vulnerabilities may be applied to production systems using hot-patching tools at the discretion of the Security and Privacy Officer. These patches must follow the same phased testing process used for non-kernel security patches; this process may be expedited for severe vulnerabilities.
-3. On Windows systems, the baseline Group Policy setting configures Windows Update to implement the patching policy.
 
 ## 8.6 Software Development Procedures
 
@@ -70,7 +64,7 @@ WatchTower standardizes and automates configuration management through the use o
 2. Developers are strongly encouraged to follow the [commit message conventions suggested by GitHub](https://github.com/blog/926-shiny-new-commit-styles).
    * Commit messages should be wrapped to 72 characters.
    * Commit messages should be written in the present tense. This convention matches up with commit messages generated by commands like git merge and git revert.
-3. Once the feature and corresponding tests are complete, a pull request will be created using the GitHub/GitLab web interface. The pull request should indicate which feature or defect is being addressed and should provide a high-level description of the changes made.
+3. Once the feature and corresponding tests are complete, a pull request will be created using the GitHub web interface. The pull request should indicate which feature or defect is being addressed and should provide a high-level description of the changes made.
 4. Code reviews are performed as part of the pull request procedure. Once a change is ready for review, the author(s) will notify other engineers using an appropriate mechanism, typically via an `@channel` message in Slack.
    * Other engineers will review the changes, using the guidelines above.
    * Engineers should note all potential issues with the code; it is the responsibility of the author(s) to address those issues or explain why they are not applicable.
@@ -78,4 +72,4 @@ WatchTower standardizes and automates configuration management through the use o
 
 ## 8.7 Software Release Procedures
 
-1. Software releases are treated as changes to existing systems and thus follow the procedure described in [§7.4](#7.4-changing-existing-systems).
+1. Software releases are treated as changes to existing systems and thus follow the procedure described in [§8.4](#8.4-changing-existing-systems).
