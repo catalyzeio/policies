@@ -59,6 +59,5 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 * [Data Integrity Policy](source/sections/15-data_integrity_policy.md)
 * [Employees Policy](source/sections/16-employees_policy.md)
 * [3rd Party Policy](source/sections/17-3rd_party_policy.md)
-* [Key Definitions](source/sections/22-key_definitions.md)
-* [WatchTower HIPAA Business Associate Agreement (“BAA”)](source/sections/23-WatchTower_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to WatchTower Controls](source/sections/24-hipaa_mapping_to_WatchTower_controls.md)
+* [WatchTower HIPAA Business Associate Agreement (“BAA”)](source/sections/18-WatchTower_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to WatchTower Controls](source/sections/19-hipaa_mapping_to_WatchTower_controls.md)
