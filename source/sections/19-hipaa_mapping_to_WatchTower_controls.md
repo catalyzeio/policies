@@ -1,4 +1,4 @@
-# 24. HIPAA Mappings to WatchTower Controls
+# 19. HIPAA Mappings to WatchTower Controls
 
 Below is a list of HIPAA Safeguards and Requirements and the WatchTower controls in place to meet those.
 
@@ -16,8 +16,8 @@ Evaluation - 164.308(a)(8) | Auditing Policy
 | **Physical Safeguards** HIPAA Rule | WatchTower Control
 --- | ---
 Facility Access Controls - 164.310(a)(1) | Facility and Disaster Recovery Policies
-Workstation Use - 164.310(b) | System Access, Approved Tools, and Employee Policies
-Workstation Security - 164.310('c') | System Access, Approved Tools, and Employee Policies
+Workstation Use - 164.310(b) | System Access, and Employee Policies
+Workstation Security - 164.310('c') | System Access, and Employee Policies
 Device and Media Controls - 164.310(d)(1) | Disposable Media and Data Management Policies
 
 | **Technical Safeguards** HIPAA Rule | WatchTower Control
