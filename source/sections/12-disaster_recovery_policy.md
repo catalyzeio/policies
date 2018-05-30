@@ -1,6 +1,6 @@
 # 12. Disaster Recovery Policy
 
-The WatchTower Contingency Plan establishes procedures to recover WatchTower following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the WatchTower Security Officer and Privacy Officer.
+The WatchTower Contingency Plan establishes procedures to recover WatchTower following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the WatchTower Security and Privacy Officer.
 
 The following objectives have been established for this plan:
 
@@ -45,17 +45,18 @@ WatchTower defined two categories of systems from a disaster recovery perspectiv
 
 The following order of succession to ensure that decision-making authority for the WatchTower Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this WatchTower Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or COO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-* Christopher Gerg, CTO: 608-320-6482, chris.gerg@WatchTower.com
-* Travis Good, CEO: 303-351-2640, travis@WatchTower.com
+* Shaheeb Roshan, CTO: 414-688-7298, shaheebroshan@watchtowerbenefits.com
+* Ryan Sachtjen, Co-founder: 555-555-5555, ryansachtjen@watchtowerbenefits.com
+* Richard Perrott, Co-founder: 555-555-5555, richardperrott@watchtowerbenefits.com
 
 ## 12.3 Responsibilities
 
 The following teams have been developed and trained to respond to a contingency event affecting the IT system.
 
-1. The **Ops Team** is responsible for recovery of the WatchTower hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of WatchTower. The team leader is the CTO and directs the Dev Ops Team.
-2. The **Web Services Team** is responsible for assuring all application servers, web services, and platform add-ons are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
+1. The **Development/Operations Team** is responsible for recovery of the WatchTower hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of WatchTower. The team leader is the CTO and directs the Dev Ops Team.
+   1.  This team is also responsible for assuring all application servers, web services, and platform add-ons are working. It is also responsible for testing redeployments and assessing damage to the environment.
 
-Members of the Ops and Web Services teams must maintain local copies of the contact information from [§13.2](#13.2-line-of-succession). Additionally, the CTO must maintain a local copy of this policy in the event Internet access is not available during a disaster scenario.
+Members of the Development/Operations Team must maintain local copies of the contact information from [§13.2](#12.2-line-of-succession). Additionally, the CTO must maintain a local copy of this policy in the event Internet access is not available during a disaster scenario.
 
 ## 12.4 Testing and Maintenance
 
@@ -84,7 +85,7 @@ This phase addresses the initial actions taken to detect and assess damage infli
 The notification sequence is listed below:
 
 * The first responder is to notify the CTO. All known information must be relayed to the CTO.
-* The CTO is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
+* The CTO is to contact the Development/Operations Team and inform them of the event. The CTO is to to begin assessment procedures.
 * The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to following the steps below.
   * Damage Assessment Procedures:
   * The CTO is to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
@@ -110,25 +111,25 @@ Recovery Goal: The goal is to rebuild WatchTower infrastructure to a production 
 
 The tasks outlines below are not sequential and some can be run in parallel.
 
-1. Contact Partners and Customers affected - Web Services
-2. Assess damage to the environment - Web Services
-3. Begin replication of new environment using automated and tested scripts, currently Chef and Salt. At this point it is determined whether to recover in Rackspace, AWS, Azure, or SoftLayer. - Dev Ops
-4. Test new environment using pre-written tests - Web Services
-5. Test logging, security, and alerting functionality - Dev Ops
-6. Assure systems are appropriately patched and up to date. - Dev Ops
-7. Deploy environment to production - Web Services
-8. Update DNS to new environment. - Dev Ops
+1. Contact Partners and Customers affected
+2. Assess damage to the environment
+3. Begin replication of new environment using automated and tested scripts
+4. Test new environment using pre-written tests
+5. Test logging, security, and alerting functionality
+6. Assure systems are appropriately patched and up to date
+7. Deploy environment to production
+8. Update DNS to new environment
 
 ### 12.5.3 Reconstitution Phase
 
-This section discusses activities necessary for restoring WatchTower operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, WatchTower operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
+This section discusses activities necessary for restoring WatchTower operations at the original or new site. The goal is to restore full operations within 72 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, WatchTower operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
 1. Original or New Site Restoration
-   * Begin replication of new environment using automated and tested scripts, currently Chef and Salt. - Dev Ops
-   * Test new environment using pre-written tests. - Web Services
-   * Test logging, security, and alerting functionality. - Dev Ops
-   * Deploy environment to production - Web Services
-   * Assure systems are appropriately patched and up to date. - Dev Ops
-   * Update DNS to new environment. - Dev Ops
+   * Begin replication of new environment using automated and tested scripts
+   * Test new environment using pre-written tests
+   * Test logging, security, and alerting functionality
+   * Deploy environment to production
+   * Assure systems are appropriately patched and up to date
+   * Update DNS to new environment
 2. Plan Deactivation
    * If the WatchTower environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the WatchTower Media Disposal Policy.
