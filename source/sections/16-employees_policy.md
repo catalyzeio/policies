@@ -1,10 +1,10 @@
-# 19. Employees Policy
+# 16. Employees Policy
 
 WatchTower is committed to ensuring all workforce members actively address security and compliance in their roles at WatchTower. As such, training is imperative to assuring an understanding of current best practices, the different types and sensitivities of data, and the sanctions associated with non-compliance.
 
-## 19.1 Applicable Standards
+## 16.1 Applicable Standards
 
-### 19.1.1 Applicable Standards from the HITRUST Common Security Framework
+### 16.1.1 Applicable Standards from the HITRUST Common Security Framework
 
 * 02.e - Information Security Awareness, Education, and Training
 * 06.e - Prevention of Misuse of Information Assets
@@ -12,11 +12,11 @@ WatchTower is committed to ensuring all workforce members actively address secur
 * 09.j - Controls Against Malicious Code
 * 01.y - Teleworking
 
-### 19.1.2 Applicable Standards from the HIPAA Security Rule
+### 16.1.2 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(5)(i) - Security Awareness and Training
 
-## 19.2 Employment Policies
+## 16.2 Employment Policies
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
@@ -46,7 +46,7 @@ WatchTower is committed to ensuring all workforce members actively address secur
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](#5.3-security-officer).
 
-## 19.3 Issue Escalation
+## 16.3 Issue Escalation
 
 WatchTower workforce members are to escalate issues using the procedures outlined in the Employee Handbook. Issues that are brought to the Escalation Team are assigned an owner. The membership of the Escalation Team is maintained by the Chief Executive Officer.
 
