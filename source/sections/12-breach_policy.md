@@ -1,4 +1,4 @@
-# 12. Breach Policy
+# 11. Breach Policy
 
 To provide guidance for breach notification when impressive or unauthorized access, acquisition, use and/or disclosure of the ePHI occurs. Breach notification will be carried out in compliance with the American Recovery and Reinvestment Act (ARRA)/Health Information Technology for Economic and Clinical Health Act (HITECH) as well as any other federal or state notification law.
 
@@ -8,21 +8,16 @@ The American Recovery and Reinvestment Act of 2009 (ARRA) was signed into law on
 
 In the case of a breach, WatchTower shall notify all affected Customers. It is the responsibility of the Customers to notify affected individuals.
 
-## 12.1 Applicable Standards
+## 11.1 Applicable Standards
 
-### 12.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 11.a Reporting Information Security Events
-* 11.c Responsibilities and Procedures
-
-### 12.1.2 Applicable Standards from the HIPAA Security Rule
+### 11.1.1 Applicable Standards from the HIPAA Security Rule
 
 * Security Incident Procedures - 164.308(a)(6)(i)
 * HITECH Notification in the Case of Breach - 13402(a) and 13402(b)
 * HITECH Timeliness of Notification - 13402(d)(1)
 * HITECH Content of Notification - 13402(f)(1)
 
-## 12.2 WatchTower Breach Policy
+## 11.2 WatchTower Breach Policy
 
 1. Discovery of Breach: A breach of ePHI shall be treated as "discovered" as of the first day on which such breach is known to the organization, or, by exercising reasonable diligence would have been known to WatchTower (includes breaches by the organization's Customers, Partners, or subcontractors). WatchTower shall be deemed to have knowledge of a breach if such breach is known or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or Partner of the organization. Following the discovery of a potential breach, the organization shall begin an investigation (see organizational policies for security incident response and/or risk management incident response) immediately, conduct a risk assessment, and based on the results of the risk assessment, begin the process to notify each Customer affected by the breach. WatchTower shall also begin the process of determining what external notifications are required or should be made (e.g., Secretary of Department of Health & Human Services (HHS), media outlets, law enforcement officials, etc.)
 2. Breach Investigation: The WatchTower Security Officer shall name an individual to act as the investigator of the breach (e.g., privacy officer, security officer, risk manager, etc.). The investigator shall be responsible for the management of the breach investigation, completion of a risk assessment, and coordinating with others in the organization as appropriate (e.g., administration, security incident response team, human resources, risk management, public relations, legal counsel, etc.) The investigator shall be the key facilitator for all breach notification processes to the appropriate entities (e.g., HHS, media, law enforcement officials, etc.). All documentation related to the breach investigation, including the risk assessment, shall be retained for a minimum of six years. A template breach log is located [here](sections/breach.log.pdf).
@@ -52,7 +47,7 @@ In the case of a breach, WatchTower shall notify all affected Customers. It is t
 12. Sanctions: The organization shall have in place and apply appropriate sanctions against members of its workforce, Customers, and Partners who fail to comply with privacy policies and procedures.
 13. Retaliation/Waiver: WatchTower may not intimidate, threaten, coerce, discriminate against, or take other retaliatory action against any individual for the exercise by the individual of any privacy right. The organization may not require individuals to waive their privacy rights under as a condition of the provision of treatment, payment, enrollment in a health plan, or eligibility for benefits.
 
-## 12.3 WatchTower Platform Customer Responsibilities
+## 11.3 WatchTower Platform Customer Responsibilities
 
 1. The WatchTower Customer that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI shall, without unreasonable delay and in no case later than 60 calendar days after discovery of a breach, notify WatchTower of such breach. The Customer shall provide WatchTower with the following information:
    * A description of what happened, including the date of the breach, the date of the discovery of the breach, and the number of records and Customers affected, if known.
@@ -62,7 +57,7 @@ In the case of a breach, WatchTower shall notify all affected Customers. It is t
 2. Notice to Media: WatchTower Customers are responsible for providing notice to prominent media outlets at the Customer's discretion.
 3. Notice to Secretary of HHS: WatchTower Customers are responsible for providing notice to the Secretary of HHS at the Customer's discretion.
 
-## 12.4 Sample Letter to Customers in Case of Breach
+## 11.4 Sample Letter to Customers in Case of Breach
 
 [Date]
 
@@ -94,7 +89,7 @@ We will assist you in remedying the situation.
 Sincerely,
 
 
-Travis Good, MD  
-Co-founder - WatchTower Health, Inc.  
-travis@WatchTower.com  
-303-351-2640
+Shaheeb Roshan  
+Co-founder - WatchTower Benefits.  
+shaheebroshan@watchtowerbenefits.com  
+414-688-7298
