@@ -72,7 +72,7 @@ These organizational responsibilities include, but are not limited to the follow
     * Promptly, properly, and consistently investigates and addresses reported violations and takes steps to prevent recurrence.
     * Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of WatchTower.
     * Mitigates, to the extent practicable, any harmful effect known to WatchTower of a use or disclosure of ePHI in violation of WatchTower's policies and procedures, even if effect is the result of actions of WatchTower business associates, customers, and/or partners.
-11. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [WatchTower Breach Policy](#12.-breach-policy).
+11. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [WatchTower Breach Policy](#11.-breach-policy).
 12. The Security and Privacy Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains. Examples of security updates and reminders include, but are not limited to:
     * Latest malicious software or virus alerts;
     * WatchTower's requirement to report unauthorized attempts to access ePHI;
