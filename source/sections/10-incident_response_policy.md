@@ -5,7 +5,6 @@ WatchTower implements an information security incident response process to consi
 The incident response process addresses:
 
 * Continuous monitoring of threats through intrusion detection systems (IDS) and other monitoring applications;
-* Establishment of an information security incident response team;
 * Establishment of procedures to respond to media inquiries;
 * Establishment of clear procedures for identifying, responding, assessing, analyzing, and follow-up of information security incidents;
 * Workforce training, education, and awareness on information security incidents and required responses; and
@@ -15,12 +14,7 @@ The incident response process addresses:
 
 ## 10.1 Applicable Standards
 
-### 10.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 11.a - Reporting Information Security Events
-* 11.c - Responsibilities and Procedures
-
-### 10.1.2 Applicable Standards from the HIPAA Security Rule
+### 10.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(5)(i) - Security Awareness and Training
 * 164.308(a)(6) - Security Incident Procedures
@@ -49,38 +43,36 @@ WatchTower's incident response classifies security-related events into the follo
   * A data breach accomplished by an internal or external entity.
   * A Denial-of-Service (DoS) attack causing a critical service to become unreachable.
 
-WatchTower employees must report any unauthorized or suspicious activity seen on production systems or associated with related communication systems (such as email or Slack). In practice this means keeping an eye out for security events, and letting the Security Officer know about any observed precursors or indications as soon as they are discovered.
+WatchTower employees must report any unauthorized or suspicious activity seen on production systems or associated with related communication systems (such as email or Slack). In practice this means keeping an eye out for security events, and letting the Security and Privacy Officer know about any observed precursors or indications as soon as they are discovered.
 
 ### 10.2.1 Identification Phase
 
 1. Immediately upon observation WatchTower members report suspected and known Events, Precursors, Indications, and Incidents in one of the following ways:
-   1. Direct report to management, the Security Officer, Privacy Officer, or other;
+   1. Direct report to management, the Security and Privacy Officer, or other;
    2. Email;
    3. Phone call;
-   4. Online incident response form located [here](https://docs.google.com/a/catalyze.io/forms/d/1Hn4di9Jdw5JT8vISMh6tVUnh94VpeHucell7Ca4fKTo/viewform);
    5. Secure Chat.
-   6. Anonymously through workforce members desired channels.
-2. The individual receiving the report facilitates completion of an [Incident Identification form](sections/IH-Identification.pdf) and notifies the Security Officer (if not already done).
-3. The Security Officer determines if the issue is an Event, Precursor, Indication, or Incident.
-   1. If the issue is an event, indication, or precursor the Security Officer forwards it to the appropriate resource for resolution.
-      1. Non-Technical Event (minor infringement): the Security Officer completes a [SIR Form](sections/sir-form.doc) and investigates the incident.
+2. The individual receiving the report facilitates completion of an [Incident Identification form](sections/IH-Identification.pdf) and notifies the Security and Privacy Officer (if not already done).
+3. The Security and Privacy Officer determines if the issue is an Event, Precursor, Indication, or Incident.
+   1. If the issue is an event, indication, or precursor the Security and Privacy Officer forwards it to the appropriate resource for resolution.
+      1. Non-Technical Event (minor infringement): the Security and Privacy Officer completes a [SIR Form](sections/sir-form.doc) and investigates the incident.
       2. Technical Event: Assign the issue to an IT resource for resolution. This resource may also be a contractor or outsourced technical resource, in the event of a small office or lack of expertise in the area.
-   2. If the issue is a security incident the Security Officer activates the Security Incident Response Team (SIRT) and notifies senior management.
-       1. If a non-technical security incident is discovered the SIRT completes the investigation, implements preventative measures, and resolves the security incident.
+   2. If the issue is a security incident the Security and Privacy Officer notifies the IT department and senior management.
+       1. If a non-technical security incident is discovered the IT department completes the investigation, implements preventative measures, and resolves the security incident.
        2. Once the investigation is completed, progress to Phase V, Follow-up.
        3. If the issue is a technical security incident, commence to Phase II: Containment.
-       4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
-       5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
-       6. The lead member of the SIRT team facilitates initiation of a [SIR Form](sections/sir-form.doc) or an [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
-3. The Security Officer, Privacy Officer, or WatchTower representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
-4. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to WatchTower and potentially external.
+       4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the development team.
+       5. Each individual involved with the technical response documents all measures taken during each phase, including the start and end times of all efforts.
+       6. A lead member of the IT department facilitates initiation of a [SIR Form](sections/sir-form.doc) or an [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
+3. The Security and Privacy Officer, or appointed WatchTower representative notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
+4. In the case of a threat identified, the Security and Privacy Officer is to form a team to investigate and involve necessary resources, both internal to WatchTower and potentially external.
 
 ### 10.2.2 Containment Phase (Technical)
 
 In this Phase, WatchTower's IT department attempts to contain the security incident. It is extremely important to take detailed notes during the security incident response process. This provides that the evidence gathered during the security incident can be used successfully during prosecution, if appropriate.
 
-1. The SIRT reviews any information that has been collected by the Security Officer or any other individual investigating the security incident.
-2. The SIRT secures the network perimeter.
+1. The IT department reviews any information that has been collected by the Security Officer or any other individual investigating the security incident.
+2. The IT department secures the network perimeter.
 3. The IT department performs the following:
    1. Securely connect to the affected system over a trusted connection.
    2. Retrieve any volatile data from the affected system.
@@ -98,10 +90,10 @@ In this Phase, WatchTower's IT department attempts to contain the security incid
 
 ### 10.2.3 Eradication Phase (Technical)
 
-The Eradication Phase represents the SIRT's effort to remove the cause, and the resulting security exposures, that are now on the affected system(s).
+The Eradication Phase represents the IT department's effort to remove the cause, and the resulting security exposures, that are now on the affected system(s).
 
 1. Determine symptoms and cause related to the affected system(s).
-2. Strengthen the defenses surrounding the affected system(s), where possible (a risk assessment may be needed and can be determined by the Security Officer). This may include the following:
+2. Strengthen the defenses surrounding the affected system(s), where possible (a risk assessment may be needed and can be determined by the Security and Privacy Officer). This may include the following:
    1. An increase in network perimeter defenses.
    2. An increase in system monitoring defenses.
    3. Remediation ("fixing") any security issues within the affected system, such as removing unused services/general host hardening techniques.
@@ -115,7 +107,7 @@ The Eradication Phase represents the SIRT's effort to remove the cause, and the 
 
 ### 10.2.4 Recovery Phase (Technical)
 
-The Recovery Phase represents the SIRT's effort to restore the affected system(s) back to operation after the resulting security exposures, if any, have been corrected.
+The Recovery Phase represents the IT department's effort to restore the affected system(s) back to operation after the resulting security exposures, if any, have been corrected.
 
 1. The technical team determines if the affected system(s) have been changed in any way.
    1. If they have, the technical team restores the system to its proper, intended functioning ("last known good").
@@ -143,9 +135,3 @@ The Follow-up Phase represents the review of the security incident to look for "
 
 It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding WatchTower's expectation for them, relative to security responsibilities. The incident response plan is tested annually.
 
-## 10.3 Security Incident Response Team (SIRT)
-
-Current members of the WatchTower SIRT:
-
-* Security Officer
-* Privacy Officer
