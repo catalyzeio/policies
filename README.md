@@ -56,7 +56,7 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 * [Disaster Recovery Policy](source/sections/12-disaster_recovery_policy.md)
 * [Disposable Media Policy](source/sections/13-disposable_media_policy.md)
 * [IDS Policy](source/sections/14-ids_policy.md)
-* [Vulnerability Scanning Policy](source/sections/16-vulnerability_scanning_policy.md)
+* [Vulnerability Scanning Policy](source/sections/15-vulnerability_scanning_policy.md)
 * [Data Integrity Policy](source/sections/17-data_integrity_policy.md)
 * [Data Retention Policy](source/sections/18-data_retention_policy.md)
 * [Employees Policy](source/sections/19-employees_policy.md)
