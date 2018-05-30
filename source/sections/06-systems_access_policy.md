@@ -68,7 +68,6 @@ Access to WatchTower systems and application is limited for all users, including
 1. Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the information system.
 2. Each Customer and Partner has and uses a unique user ID and password that identifies him/her as the user of the information system.
 3. All Customer support desk interactions must be verified before WatchTower support personnel will satisfy any request having information security implications.
-   * Support issues submitted by email must be verified by WatchTower personnel using a phone number that has been registered with the corresponding account.
 
 ## 6.6 Unique User Identification
 
@@ -128,8 +127,8 @@ WatchTower does not use paper records for any sensitive information. Use of pape
    * account lockout after 5 invalid attempts.
 4. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
-   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
-   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](#17.9-transmission-security).
+   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§15.8](#15.8-production-data-security).
+   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§15.9](#15.9-transmission-security).
 5. Each information system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
 6. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §6.10](#6.10-employee-termination-procedures)).
 7. All default system, application, and Partner passwords are changed before deployment to production.
