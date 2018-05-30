@@ -18,17 +18,16 @@ WatchTower is committed to ensuring all workforce members actively address secur
 3. The WatchTower Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
    * Workforce members are required to sign an agreement stating that they have read and will abide by all terms outlined in the WatchTower Employee Handbook, along with all policies and processes described in this document.
    * A Human Resources representative will provide the agreement to new employees during their onboarding process.
-4. WatchTower does not allow mobile devices to connect to any of its production networks.
-5. All workforce members are educated about the approved set of tools to be installed on workstations.
-6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, and the levels of compliance and obligations for WatchTower and its Customers and Partners.
+4. All workforce members are educated about the approved set of tools to be installed on workstations.
+5. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, and the levels of compliance and obligations for WatchTower and its Customers and Partners.
    * Current WatchTower training is hosted at [training.WatchTower.com](https://training.WatchTower.com/).
-7. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
-8. Access to internal WatchTower systems can be requested using the procedures outlined in [§6.2](#6.2-access-establishment-and-modification). All requests for access must be granted by the WatchTower Security and Privacy Officer.
-9. Request for modifications of access for any WatchTower employee can be made using the procedures outlined in [§6.2](#6.2-access-establishment-and-modification).
-10. WatchTower employees are strictly forbidden from downloading any ePHI to their workstations.
+6. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
+7. Access to internal WatchTower systems can be requested using the procedures outlined in [§6.2](#6.2-access-establishment-and-modification). All requests for access must be granted by the WatchTower Security and Privacy Officer.
+8. Request for modifications of access for any WatchTower employee can be made using the procedures outlined in [§6.2](#6.2-access-establishment-and-modification).
+9. WatchTower employees are strictly forbidden from downloading any ePHI to their workstations.
     * Restricting transfers of ePHI is enforced through technical controls as described in [§6.13](#6.13-access-to-ephi).
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§4.3.3](#4.3-security-officer).
-11. Employees are required to cooperate with federal and state investigations.
+10. Employees are required to cooperate with federal and state investigations.
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§4.3.3](#4.3-security-officer).
 
