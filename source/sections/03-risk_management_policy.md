@@ -29,12 +29,12 @@ This policy establishes the scope, objectives, and procedures of WatchTower's in
 6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of WatchTower's Security and Privacy Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
 8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
-   1. The Security and Privacy Officer initiates the Risk Management Procedures by creating an Issue in the WatchTower Quality Manageement System.
+   1. The Security and Privacy Officer initiates the Risk Management Procedures by creating an Issue in the WatchTower Project Management System.
    2. The Security and Privacy Officer is assigned to carry out the Risk Management Procedures.
    3. All findings are documented in an approved spreadsheet that is linked to the Issue.
    4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security and Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security and Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Manageement System reporting to assess compliance with above policy.
+9. The Risk Management Procedure is monitored on a quarterly basis using the Project Management System reporting to assess compliance with above policy.
 
 ## 3.3 Risk Management Procedures
 
@@ -95,7 +95,7 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
   * Output - Documented cost-benefit analysis of either implementing or not implementing each specific control
 
 * Step 4. Select Control(s)
-  * Taking into account the information and results from previous steps, WatchTower's mission, and other important criteria, the Risk Management Team determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
+  * Taking into account the information and results from previous steps, WatchTower's mission, and other important criteria, the IT Department determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
   * Output - Selected control(s)
 
 * Step 5. Assign Responsibility
@@ -118,7 +118,7 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
 
 * Step 7. Implement Selected Controls
   * As controls are implemented, monitor the affected system(s) to verify that the implemented controls continue to meet expectations. Elimination of all risk is not practical. Depending on individual situations, implemented controls may lower a risk level but not completely eliminate the risk.
-  * Continually and consistently communicate expectations to all Risk Management Team members, as well as senior management and other key people throughout the risk mitigation process. Identify when new risks are identified and when controls lower or offset risk rather than eliminate it.
+  * Continually and consistently communicate expectations to all IT Department members, as well as senior management and other key people throughout the risk mitigation process. Identify when new risks are identified and when controls lower or offset risk rather than eliminate it.
   * Additional monitoring is especially crucial during times of major environmental changes, organizational or process changes, or major facilities changes.
   * If risk reduction expectations are not met, then repeat all or a part of the risk management process so that additional controls needed to lower risk to an acceptable level can be identified.
   * Output - Residual Risk documentation
@@ -129,7 +129,7 @@ The two principle components of the risk management process - risk assessment an
 
 * Scheduled Basis - an overall risk assessment of WatchTower's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
-* As Needed - the Security and Privacy Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect WatchTower's Platform.
+* As Needed - the Security and Privacy Officer (or other designated employee) or IT Department may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect WatchTower's Platform.
 
 ## 3.4 Process Documentation
 
