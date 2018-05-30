@@ -20,7 +20,7 @@ Access to WatchTower systems and application is limited for all users, including
 ## 6.2 Access Establishment and Modification
 
 1. Requests for access to WatchTower Platform systems and applications is made formally using the following process:
-    1. A WatchTower workforce member initiates the access request by creating an Issue in the WatchTower Quality Management System.
+    1. A WatchTower workforce member initiates the access request by creating an Issue in the WatchTower Project Management System.
        * User identities must be verified prior to granting access to new accounts.
        * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
        * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
@@ -34,12 +34,12 @@ Access to WatchTower systems and application is limited for all users, including
 2. Access is not granted until receipt, review, and approval by the WatchTower Security and Privacy Officer;
 3. The request for access is retained for future reference.
 4. All access to WatchTower systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security and Privacy Officer initiates the review of user access by creating an Issue in the WatchTower Quality Management System.
+   1. The Security and Privacy Officer initiates the review of user access by creating an Issue in the WatchTower Project Management System.
    2. The Security and Privacy Officer is assigned to review levels of access for each WatchTower workforce member.
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
    4. Once the review is completed, the Security and Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security and Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
-   6. Review of user access is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
+   6. Review of user access is monitored on a quarterly basis using the Project Management System reporting to assess compliance with above policy.
 5. Any WatchTower workforce member can request change of access using the process outlined in [§6.2 paragraph 1](#6.2-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.

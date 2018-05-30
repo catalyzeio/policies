@@ -68,7 +68,7 @@ It is the policy of WatchTower to safeguard the confidentiality, integrity, and 
 ## 7.4 Review and Reporting of Audit Findings
 
 1. Audit information that is routinely gathered must be reviewed in a timely manner by the responsible workforce member(s). The following process details how log reviews are done at WatchTower:
-  1. The Security and Privacy Officer initiates the log review by creating an Issue in the WatchTower Quality Management System.
+  1. The Security and Privacy Officer initiates the log review by creating an Issue in the WatchTower Project Management System.
   2. The Security and Privacy Officer, or a WatchTower Security Engineer assigned by the Security and Privacy Officer, is assigned to review the logs.
   3. Relevant audit log findings are added to the Issue; these findings are investigated in a later step. Once those steps are completed, the Issue is then reviewed again.
   4. Once the review is completed, the Security and Privacy Officer approves or rejects the Issue. Relevant findings are reviewed at this stage. If the Issue is rejected, it goes back for further review and documentation. The communications protocol around specific findings are outlined below.
@@ -79,7 +79,7 @@ It is the policy of WatchTower to safeguard the confidentiality, integrity, and 
 3. Reports of audit results shall be limited to internal use on a minimum necessary/need-to-know basis. Audit results shall not be disclosed externally without administrative and/or legal counsel approval.
 4. Security audits constitute an internal, confidential monitoring practice that may be included in WatchTower's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable e PHI shall not be included in the reports).
 5. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
-6. Log review activity is monitored on a routine basis using the Quality Management System reporting to assess compliance with above policy.
+6. Log review activity is monitored on a routine basis using the Project Management System reporting to assess compliance with above policy.
 
 ## 7.5 Auditing Customer and Partner Activity
 

@@ -9,9 +9,9 @@ WatchTower has a Security and Privacy Officer [164.308(a)(2)] [164.308(a)(2)] ap
 * 164.308(a)(2) - Assigned Security Responsibility
 * 164.308(a)(5)(i) - Security Awareness and Training
 
-## 4.2 Privacy Officer
+## 4.2 Security and Privacy Officer
 
-The Privacy Officer is responsible for:
+The Security and Privacy Officer is responsible for:
   *  assisting with compliance and security training for workforce members, 
   *  assuring organization remains in compliance with evolving compliance rules, 
   *  investigation and sanctioning of any workforce member that is in violation of WatchTower security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], 

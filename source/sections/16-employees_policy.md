@@ -39,7 +39,7 @@ Security incidents, particularly those involving ePHI, are handled using the pro
 
 It is the duty of that owner to follow the process outlined below:
 
-1. Create an Issue in the WatchTower Quality Management System.
+1. Create an Issue in the WatchTower Project Management System.
 2. The Issue is investigated, documented, and, when a conclusion or remediation is reached, it is moved to Review.
 3. The Issue is reviewed by another member of the Escalation Team. If the Issue is rejected, it goes back for further evaluation and review.
 4. If the Issue is approved, it is marked as Done, adding any pertinent notes required.

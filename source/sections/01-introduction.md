@@ -22,11 +22,11 @@ WatchTower, at its sole discretion, shares audit reports with customers on a cas
 The following process is used to request audit reports:
 
 1. Email is sent to compliance-reports@watchtowerbenefits.com. In the email, please specify the type of report being requested and any required timelines for the report.
-2. WatchTower staff will log an issue with the details of the request into the WatchTower Quality Management System. The WatchTower Quality Management System is used to track requests' status and outcomes.
+2. WatchTower staff will log an issue with the details of the request into the WatchTower Project Management System. The WatchTower Project Management System is used to track requests' status and outcomes.
 3. WatchTower will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, WatchTower will send one for execution.
 4. Once it has been confirmed that an NDA is executed, WatchTower staff will move the issue to "Under Review".
 5. The WatchTower Security and Privacy Officer must Approve or Reject the Issue. If the Issue is rejected, WatchTower will notify the requesting party that we cannot share the requested report.
-6. If the issue has been Approved, WatchTower will send the customer the requested audit report and complete the Quality Management System issue for the request.
+6. If the issue has been Approved, WatchTower will send the customer the requested audit report and complete the Project Management System issue for the request.
 
 ## 1.3 Version Control
 

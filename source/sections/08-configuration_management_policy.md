@@ -24,9 +24,9 @@ WatchTower standardizes and automates configuration management through the use o
 
 ## 8.3 Provisioning Production Systems
 
-1. Before provisioning any systems, ops team members must file a request in the WatchTower Quality Management System.
-   * Quality Management System access requires authenticated users.
-   * The CTO grants access to the Quality Management System following the procedures covered in the [Access Establishment and Modification section](#6.2-access-establishment-and-modification).
+1. Before provisioning any systems, ops team members must file a request in the WatchTower Project Management System.
+   * Project Management System access requires authenticated users.
+   * The CTO grants access to the Project Management System following the procedures covered in the [Access Establishment and Modification section](#6.2-access-establishment-and-modification).
 2. The CTO, or an authorized delegate of the CTO, must approve the provisioning request before any new system can be provisioned.
 3. Once provisioning has been approved, the ops team member must configure the new system according to the standard baseline chosen for the system's role.
 4. If the system will be used to house production data (ePHI), the ops team member must add an encrypted block data volume to the VM during provisioning.
