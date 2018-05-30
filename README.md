@@ -52,7 +52,7 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 * [Configuration Management Policy](source/sections/08-configuration_management_policy.md)
 * [Facility Access Policy](source/sections/09-facility_access_policy.md)
 * [Incident Response Policy](source/sections/10-incident_response_policy.md)
-* [Breach Policy](source/sections/12-breach_policy.md)
+* [Breach Policy](source/sections/11-breach_policy.md)
 * [Disaster Recovery Policy](source/sections/13-disaster_recovery_policy.md)
 * [Disposable Media Policy](source/sections/14-disposable_media_policy.md)
 * [IDS Policy](source/sections/15-ids_policy.md)
