@@ -17,8 +17,8 @@ Violation of this policy and its procedures by workforce members may result in c
 ## 5.2 Backup Policy and Procedures
 
 1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for WatchTower Customers and Partners.
-2. The WatchTower Development Team is designated to be in charge of backups.
-3. Dev Team members are trained and assigned to complete backups and manage the backup media.
+2. The WatchTower IT Department is designated to be in charge of backups.
+3. IT Team members are trained and assigned to complete backups and manage the backup media.
 4. Document backups
    * Name of the system
    * Date & time of backup
