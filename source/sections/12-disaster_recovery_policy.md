@@ -1,4 +1,4 @@
-# 13. Disaster Recovery Policy
+# 12. Disaster Recovery Policy
 
 The WatchTower Contingency Plan establishes procedures to recover WatchTower following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the WatchTower Security Officer and Privacy Officer.
 
@@ -35,24 +35,20 @@ WatchTower defined two categories of systems from a disaster recovery perspectiv
 1. *Critical Systems*. These systems host application servers and database servers or are required for functioning of systems that host application servers and database servers. These systems, if unavailable, affect the integrity of data and must be restored, or have a process begun to restore them, immediately upon becoming unavailable.
 2. *Non-critical Systems*. These are all systems not considered critical by definition above. These systems, while they may affect the performance and overall security of critical systems, do not prevent Critical systems from functioning and being accessed appropriately. These systems are restored at a lower priority than critical systems.
 
-## 13.1 Applicable Standards
+## 12.1 Applicable Standards
 
-## 13.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 12.c - Developing and Implementing Continuity Plans Including Information Security
-
-## 13.1.2 Applicable Standards from the HIPAA Security Rule
+## 12.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(7)(i) - Contingency Plan
 
-## 13.2 Line of Succession
+## 12.2 Line of Succession
 
 The following order of succession to ensure that decision-making authority for the WatchTower Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this WatchTower Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or COO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
 * Christopher Gerg, CTO: 608-320-6482, chris.gerg@WatchTower.com
 * Travis Good, CEO: 303-351-2640, travis@WatchTower.com
 
-## 13.3 Responsibilities
+## 12.3 Responsibilities
 
 The following teams have been developed and trained to respond to a contingency event affecting the IT system.
 
@@ -61,17 +57,17 @@ The following teams have been developed and trained to respond to a contingency 
 
 Members of the Ops and Web Services teams must maintain local copies of the contact information from [§13.2](#13.2-line-of-succession). Additionally, the CTO must maintain a local copy of this policy in the event Internet access is not available during a disaster scenario.
 
-## 13.4 Testing and Maintenance
+## 12.4 Testing and Maintenance
 
 The CTO shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan's execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
 
-### 13.4.1 Tabletop Testing
+### 12.4.1 Tabletop Testing
 
 Tabletop Testing is conducted in accordance with the the [CMS Risk Management Handbook, Volume 2](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Downloads/RMH_VII_4-5_Contingency_Plan_Exercise.pdf). The primary objective of the tabletop test is to ensure designated personnel are knowledgeable and capable of performing the notification/activation requirements and procedures as outlined in the CP, in a timely manner. The exercises include, but are not limited to:
 
 * Testing to validate the ability to respond to a crisis in a coordinated, timely, and effective manner, by simulating the occurrence of a specific crisis.
 
-### 13.4.2 Technical Testing
+### 12.4.2 Technical Testing
 
 The primary objective of the technical test is to ensure the communication processes and data storage and recovery processes can function at an alternate site to perform the functions and capabilities of the system within the designated requirements. Technical testing shall include, but is not limited to:
 
@@ -79,9 +75,9 @@ The primary objective of the technical test is to ensure the communication proce
 * Restore system using backups; and
 * Switch compute and storage resources to alternate processing site.
 
-## 13.5 Disaster Recovery Procedures
+## 12.5 Disaster Recovery Procedures
 
-### 13.5.1 Notification and Activation Phase
+### 12.5.1 Notification and Activation Phase
 
 This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to WatchTower. Based on the assessment of the Event, sometimes according to the WatchTower Incident Response Policy, the Contingency Plan may be activated by either the CTO.
 
@@ -104,7 +100,7 @@ The notification sequence is listed below:
   * The CTO is to notify remaining personnel and executive leadership on the general status of the incident.
   * Notification can be message, email, or phone.
 
-### 13.5.2 Recovery Phase
+### 12.5.2 Recovery Phase
 
 This section provides procedures for recovering the application at an alternate site, whereas other efforts are directed to repair damage to the original system and capabilities.
 
@@ -123,7 +119,7 @@ The tasks outlines below are not sequential and some can be run in parallel.
 7. Deploy environment to production - Web Services
 8. Update DNS to new environment. - Dev Ops
 
-### 13.5.3 Reconstitution Phase
+### 12.5.3 Reconstitution Phase
 
 This section discusses activities necessary for restoring WatchTower operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, WatchTower operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
