@@ -52,8 +52,8 @@ Cloudticity is committed to ensuring customers receive continuous mission-critic
 The following order of succession is used to ensure that decision-making authority for the Cloudticity Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) and CFO are responsible for ensuring the safety of personnel and the execution of procedures documented within this Cloudticity Contingency Plan. If the CTO and CFO are unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or COO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
 * Gerry Miller, Founder & CTO: 248-819-0443, gerry@cloudticity.com
-* Nicole Chaika, CFO: 248-961-0574, nicole@cloudticity.com
-* Rob Williams, Senior AWS Engineer: 616-558-9018, rob@cloudticity.com
+* Nicole Chaika, CFO & COO: 248-961-0574, nicole@cloudticity.com
+* Rob Williams, Director of Technology: 616-558-9018, rob@cloudticity.com
 
 **Key Tenets**: One of the key elements to Cloudticity’s success plan is to put preventative measures in place that minimize the chances of losing key personnel, and mitigates the effect should someone leave for any reason. Preventative measures include:
 * Document Everything: The most significant preventative measure in place to mitigate against negative customer impact from anyone leaving the company is the *document everything* approach. Every tool in use at Cloudticity - from Slack to Zendesk to Google Mail to the use of AWS S3 for file storage - is both searchable and immutable. No knowledge is stored in any one person’s head; rather, it is fully documented in a tool and discoverable by anyone with appropriate access permission. In addition, all assets such as .PEM files used to access customer assets, are stored in durable, secured locations with permission-based access, such as S3.
@@ -98,13 +98,13 @@ This phase addresses the initial actions taken to detect and assess damage infli
 The notification sequence is listed below:
 
 * The first responder is to notify the CTO. All known information must be relayed to the CTO.
-* The Senior AWS Engineer is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
+* The CTO or Director of Technology is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
 * The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to following the steps below.
   * Damage Assessment Procedures: The CTO and Senior AWS Engineer are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
-  * Alternate Assessment Procedures: Upon notification from the CTO, the Senior AWS Engineer is to follow the procedures for damage assessment with combined Ops and Web Services Teams.
+  * Alternate Assessment Procedures: Upon notification from the CTO, the Director of Technology is to follow the procedures for damage assessment with combined Ops and Web Services Teams.
 * The Cloudticity Contingency Plan is to be activated if one or more of the following criteria are met:
   * Cloudticity will be unavailable for more than 48 hours.
-  * Hosting facility is damaged and will be unavailable for more than 24 hours.
+  * An AWS region will be unavailable for more than 24 hours.
   * Other criteria, as appropriate and as defined by Cloudticity.
   * If the plan is to be activated, the CTO is to notify and inform team members of the details of the event and if relocation is required.
   * Upon notification from the CTO, group leaders and managers are to notify their respective teams. Team members are to be informed of all applicable information and prepared to respond and relocate if necessary.
