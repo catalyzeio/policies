@@ -50,6 +50,8 @@ Cloudticity's incident response classifies security-related events into the foll
 
 Cloudticity employees must report any unauthorized or suspicious activity seen on production systems or associated with related communication systems (such as email or Slack). In practice this means keeping an eye out for security events, and letting the Security Officer know about any observed precursors or indications as soon as they are discovered.
 
+![Incident Response Process](../assets/img/incident-response-process.png)
+
 ### 11.2.1 Identification Phase
 
 1. Immediately upon observation Cloudticity members report suspected and known Events, Precursors, Indications, and Incidents in one of the following ways:
@@ -144,8 +146,38 @@ It is important to note that the processes surrounding security incident respons
 
 ## 11.3 Security Incident Response Team (SIRT)
 
-Current members of the Cloudticity SIRT:
+Should law enforcement need to be contacted, the Seattle FBI contact information is:
 
-* Security Officer
-* Privacy Officer
-* Senior AWS Engineer
+1110 3rd Avenue
+Seattle, WA 98101-2904
+(206) 622-0460
+
+Cloudticity SIRT members include:
+
+Name | Title | E-Mail | Mobile
+---- | ----- | ------ | ------
+Gerry Miller | CEO / CTO | gerry@cloudticity.com | (248) 819-0443
+Nicole Chaika | CFO / COO | nicole@cloudticity.com | (248) 961-0574
+Rob Williams | Director of Technology | rob@cloudticity.com | (616) 558-9018
+Thomas Zinn | Director of Project Management | thomas@cloudticity.com | (616) 446-1220
+Steven Middleton | Client Success Manager | steven@cloudticity.com | (315) 530-3331
+
+Incident response teams include:
+
+### Security Incident Response Team
+* Chief Executive Officer (Gerry Miller)
+*	Chief Operating Officer (Nicole Chaika)
+*	Director of Project Management (Thomas Zinn)
+*	Client Success Manager (Steven Middleton)
+
+### Technical Incident Response Team
+*	Chief Executive Officer (Gerry Miller)
+*	Director of Technology (Rob Williams)
+*	Director of Project Management (Thomas Zinn)
+
+### Cybersecurity Management Committee
+*	Chief Executive Officer (Gerry Miller)
+*	Chief Operating Officer (Nicole Chaika)
+*	Director of Project Management (Thomas Zinn)
+*	Director of Technology (Rob Williams)
+*	Client Success Manager (Steven Middleton)
