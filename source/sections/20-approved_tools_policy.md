@@ -4,6 +4,7 @@ Cloudticity utilizes a suite of approved software tools for internal use by work
 
 ## 20.1 List of Approved Applications
 
+* **1Password**: Securely stores both personal as well as Cloudticity passwords and other sensitive information.
 * **AWS**: AWS provides resources and services used for hosting HIPAA compliant solutions.
 * **Chef**: Chef is used for automated configuration management and deployments.
 * **Cloudcheckr**: Cloudcheckr is used for AWS account management around improving security, cost, availability, and utilization.
@@ -29,6 +30,7 @@ Cloudticity utilizes a suite of approved software tools for internal use by work
 * **Manufacturer-specific App Stores**: Examples of these are Samsung Apps, LG Smart World, and Lenovo App Store.
 
 ## 20.3 List of Approved Application Extensions and Plugins
+* **1Password**: Google Chrome addon for automatically filling in usernames and passwords.
 * **Adblock Plus**: Google Chrome addon for blocking popup ads.
 * **UberConference**: Google Chrome addon for participating in Uberconference.
 * **UberConference Screen Sharing**: Google Chrome addon for participating in Uberconference screen sharing.
