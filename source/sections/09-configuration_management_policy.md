@@ -33,6 +33,7 @@ Cloudticity standardizes and automates configuration management through the use 
     * Windows-based systems use a baseline configuration in conjunction with the Windows Server 2012 STIG.
     * Linux-based systems use a Red Hat Enterprise Linux STIG.
 14. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
+15. Any vendor software which is non-supported will be replaced where possible or if not possible a plan for migration will be developed
 
 ## 9.3 Provisioning Production Systems
 
