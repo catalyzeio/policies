@@ -156,7 +156,7 @@ Datica does not use paper records for any sensitive information. Use of paper fo
    * where supported, modifying at least 4 characters when changing passwords;
    * account lockout after 5 invalid attempts.
 4. All system and application passwords must be stored and transmitted securely.
-   * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
+   * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (BCrypt or equivalent).
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
    * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](#17.9-transmission-security).
 5. Each information system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
